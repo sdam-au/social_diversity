@@ -1,135 +1,135 @@
 {
     "collegatarius": [
-        "collegatariis",
-        "collegatarii",
-        "collegatarios",
+        "collegatariorum",
         "collegatario",
+        "collegatariis",
         "collegatarium",
+        "collegatarii",
         "collegatarius",
-        "collegatariorum"
+        "collegatarios"
     ],
     "collegiarius": [
-        "collegiarios",
         "collegiariorum",
-        "collegiarii",
+        "collegiarios",
+        "collegiario",
         "collegiarius",
-        "collegiarium",
         "collegiariis",
-        "collegiario"
+        "collegiarii",
+        "collegiarium"
     ],
     "collegiatus": [
-        "collegiatus",
-        "collegiato",
-        "collegiati",
-        "collegiatorum",
         "collegiatos",
+        "collegiato",
         "collegiatis",
-        "collegiatum"
+        "collegiati",
+        "collegiatum",
+        "collegiatus",
+        "collegiatorum"
     ],
     "corporatus": [
-        "corporati",
-        "corporatis",
-        "corporatum",
-        "corporatorum",
-        "corporato",
         "corporatos",
-        "corporatus"
+        "corporatus",
+        "corporatis",
+        "corporato",
+        "corporatorum",
+        "corporatum",
+        "corporati"
     ],
     "sodalicium": [
         "sodaliciorum",
-        "sodalicio",
-        "sodalicium",
         "sodalicii",
+        "sodalicium",
+        "sodalicia",
         "sodaliciis",
-        "sodalicia"
+        "sodalicio"
     ],
     "collegium": [
-        "collegium",
-        "collegio",
-        "collegiorum",
         "collegiis",
+        "collegii",
+        "collegio",
+        "collegium",
         "collegia",
-        "collegii"
+        "collegiorum"
     ],
     "collegius": [
         "collegium",
-        "collegius",
-        "collegio",
-        "collegiorum",
         "collegiis",
+        "collegii",
+        "collegio",
         "collegios",
-        "collegii"
+        "collegius",
+        "collegiorum"
     ],
     "concilium": [
-        "concilia",
-        "conciliis",
         "concilii",
+        "conciliis",
         "concilio",
-        "concilium",
-        "conciliorum"
+        "conciliorum",
+        "concilia",
+        "concilium"
     ],
     "conlegium": [
-        "conlegii",
-        "conlegio",
-        "conlegiis",
         "conlegiorum",
+        "conlegio",
+        "conlegii",
+        "conlegiis",
         "conlegium",
         "conlegia"
     ],
     "sodalitas": [
-        "sodalitatibus",
         "sodalitates",
-        "sodalitate",
-        "sodalitatum",
-        "sodalitas",
         "sodalitatem",
         "sodalitati",
+        "sodalitatibus",
+        "sodalitatum",
+        "sodalitate",
+        "sodalitas",
         "sodalitatis"
     ],
     "colegium": [
-        "colegio",
-        "colegii",
-        "colegia",
-        "colegiis",
         "colegiorum",
-        "colegium"
+        "colegium",
+        "colegio",
+        "colegiis",
+        "colegia",
+        "colegii"
     ],
     "sociatio": [
-        "sociationibus",
-        "sociationis",
-        "sociationem",
-        "sociationes",
         "sociatione",
         "sociationi",
+        "sociationibus",
         "sociationum",
-        "sociatio"
+        "sociationem",
+        "sociatio",
+        "sociationes",
+        "sociationis"
     ],
     "societas": [
-        "societates",
         "societatum",
-        "societati",
-        "societate",
+        "societatis",
+        "societates",
         "societatibus",
         "societatem",
-        "societatis",
-        "societas"
+        "societas",
+        "societate",
+        "societati"
     ],
     "collega": [
-        "collegarum",
-        "collegae",
-        "collega",
-        "college",
-        "collegis",
         "collegas",
-        "collegam"
+        "college",
+        "collegam",
+        "collegae",
+        "collegarum",
+        "collega",
+        "collegis"
     ],
     "corpus": [
-        "corpora",
-        "corpus",
-        "corpore",
         "corporis",
+        "corporibus",
+        "corpora",
+        "corpore",
         "corpori",
         "corporum",
-        "corporibus"
+        "corpus"
     ]
 }
