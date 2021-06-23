@@ -28,10 +28,6 @@ CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob
 ---
 ## How to use this repository
 
-* download or clone the repository
-* activate the virtual environment (open your command line, move the the repository folder and run `bash ./create_socdiv_venv.sh`)
-* in the jupyter notebooks, always check that you are connected to the *socdiv_venv* kernel
-* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required python packages within the `requirements.txt` file: `pip install -r requiremnts.txt`
 
 ### Data
 [EDCS](http://www.manfredclauss.de/) dataset is accessed and transformed by the series of Python and R scripts in [EDCS ETL repository](https://github.com/sdam-au/EDCS_ETL), created by SDAM project. The latest version of the dataset (as JSON file) can be accessed via Sciencedata.dk or at this link: TBA in January [EDCS_public folder](https://sciencedata.dk/shared/1f5f56d09903fe259c0906add8b3a55e). 
