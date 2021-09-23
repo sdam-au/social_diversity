@@ -39,6 +39,19 @@ CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob
 * Python 3 additional libraries listed `requirements.txt`
 
 
+### Getting Started
+
+After you clone the repository, install python virtual environment by going to terminal and running the following commands:
+```bash
+INTERPRTER=which python # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
+virtualenv socdiv_venv --python=$INTERPRETER
+source socdiv_venv/bin/activate
+pip install -U pip
+pip install -r requirements.txt # install anything in requirements.txt
+socdiv_venv/bin/python -m ipykernel install --user --name=socdiv_venv
+
+```
+
 
 
 
