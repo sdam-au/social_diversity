@@ -8,6 +8,9 @@ scikit-learn
 matplotlib
 seaborn
 networkx
+gspread
+gspread_dataframe
+google-auth
 
 sddk
 tempun
