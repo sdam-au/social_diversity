@@ -3,9 +3,9 @@
 
 ---
 ## Authors
+* Vojtech Kase [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8736-7152), SDAM project, kase@cas.au.dk
 * Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra.hermankova@cas.au.dk
-* Vojtech Kase
-* Adela Sobotkova
+* Adela Sobotkova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4541-3963), SDAM project, adela@cas.au.dk
 
 ## Abstract
 Social development is often measured through increasing social stratification and economic specialisation through time. According to Adam Smith (1776/2007), growing population size leads to greater specialisation of labour as well as the proliferation of social roles. However true for modern society, this theory has been applied to the ancient world only to a limited extent (Bowman and Wilson 2009; Hanson, Ortman, and Lobo 2017), mostly due to the problematic access to comparable and relevant longitudinal datasets.
@@ -43,12 +43,25 @@ CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob
 
 After you clone the repository, install python virtual environment by going to terminal and running the following commands:
 ```bash
-INTERPRTER=which python # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
+INTERPRETER=which python # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
 virtualenv socdiv_venv --python=$INTERPRETER
-source socdiv_venv/bin/activate
-pip install -U pip
-pip install -r requirements.txt # install anything in requirements.txt
+
+socdiv_venv/bin/python -m pip install -r requirements.txt # install anything in requirements.txt
 socdiv_venv/bin/python -m ipykernel install --user --name=socdiv_venv
+
+```
+If you work on Apple M1 machine (as me), the installation of some packages (esp. `scipy` and `scikit-learn`) 
+might be tricky. I have finally found the solution in this thread: https://github.com/scikit-learn/scikit-learn/issues/19137
+
+```bash
+VENVNAME=socdiv_venv
+$VENVNAME/bin/python -m pip install --no-cache --no-use-pep517 pythran cython pybind11 gast"==0.4.0"
+$VENVNAME/bin/python -m pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
+$VENVNAME/bin/python -m pip install --no-use-pep517 scikit-learn"==1.0.0"
+```
+
+
+
 
 ```
 

@@ -1,5 +1,5 @@
-ipython
-jupyter
+ipykernel
+
 pandas
 geopandas
 nltk

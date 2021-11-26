@@ -1,135 +1,135 @@
 {
     "collegatarius": [
-        "collegatariorum",
-        "collegatario",
-        "collegatariis",
         "collegatarium",
         "collegatarii",
+        "collegatariorum",
+        "collegatarios",
         "collegatarius",
-        "collegatarios"
+        "collegatariis",
+        "collegatario"
     ],
     "collegiarius": [
-        "collegiariorum",
-        "collegiarios",
+        "collegiarium",
         "collegiario",
-        "collegiarius",
         "collegiariis",
+        "collegiariorum",
         "collegiarii",
-        "collegiarium"
+        "collegiarius",
+        "collegiarios"
     ],
     "collegiatus": [
         "collegiatos",
-        "collegiato",
-        "collegiatis",
-        "collegiati",
         "collegiatum",
+        "collegiatis",
         "collegiatus",
+        "collegiato",
+        "collegiati",
         "collegiatorum"
     ],
     "corporatus": [
+        "corporatorum",
+        "corporatis",
         "corporatos",
         "corporatus",
-        "corporatis",
-        "corporato",
-        "corporatorum",
         "corporatum",
+        "corporato",
         "corporati"
     ],
     "sodalicium": [
-        "sodaliciorum",
         "sodalicii",
         "sodalicium",
-        "sodalicia",
+        "sodaliciorum",
         "sodaliciis",
+        "sodalicia",
         "sodalicio"
     ],
     "collegium": [
-        "collegiis",
-        "collegii",
+        "collegiorum",
         "collegio",
-        "collegium",
+        "collegiis",
         "collegia",
-        "collegiorum"
+        "collegium",
+        "collegii"
     ],
     "collegius": [
-        "collegium",
-        "collegiis",
-        "collegii",
+        "collegiorum",
         "collegio",
+        "collegiis",
         "collegios",
-        "collegius",
-        "collegiorum"
+        "collegium",
+        "collegii",
+        "collegius"
     ],
     "concilium": [
-        "concilii",
-        "conciliis",
         "concilio",
+        "concilii",
         "conciliorum",
+        "concilium",
         "concilia",
-        "concilium"
+        "conciliis"
     ],
     "conlegium": [
         "conlegiorum",
         "conlegio",
         "conlegii",
+        "conlegia",
         "conlegiis",
-        "conlegium",
-        "conlegia"
+        "conlegium"
     ],
     "sodalitas": [
-        "sodalitates",
-        "sodalitatem",
-        "sodalitati",
-        "sodalitatibus",
         "sodalitatum",
+        "sodalitatibus",
+        "sodalitati",
+        "sodalitatem",
         "sodalitate",
         "sodalitas",
+        "sodalitates",
         "sodalitatis"
     ],
     "colegium": [
         "colegiorum",
-        "colegium",
-        "colegio",
+        "colegii",
         "colegiis",
-        "colegia",
-        "colegii"
+        "colegio",
+        "colegium",
+        "colegia"
     ],
     "sociatio": [
-        "sociatione",
-        "sociationi",
-        "sociationibus",
-        "sociationum",
         "sociationem",
-        "sociatio",
+        "sociationi",
+        "sociationis",
+        "sociatione",
         "sociationes",
-        "sociationis"
+        "sociatio",
+        "sociationum",
+        "sociationibus"
     ],
     "societas": [
-        "societatum",
-        "societatis",
-        "societates",
-        "societatibus",
         "societatem",
+        "societatibus",
         "societas",
+        "societatis",
         "societate",
+        "societatum",
+        "societates",
         "societati"
     ],
     "collega": [
         "collegas",
-        "college",
         "collegam",
-        "collegae",
+        "collegis",
         "collegarum",
+        "college",
         "collega",
-        "collegis"
+        "collegae"
     ],
     "corpus": [
-        "corporis",
+        "corpus",
         "corporibus",
-        "corpora",
         "corpore",
-        "corpori",
         "corporum",
-        "corpus"
+        "corpora",
+        "corporis",
+        "corpori"
     ]
 }

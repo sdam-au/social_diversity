@@ -1,4 +1,4 @@
-#!/home/kasev/social_diversity/socdiv_venv/bin/python
+#!/Users/kasev/Projects/social_diversity/socdiv_venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
