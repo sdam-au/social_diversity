@@ -1,0 +1,5 @@
+,measurement,context,mean,std,min,25%,50%,75%,max
+0,"occups. per 1,000 ins.",urban (city < 5km),43.17,8.66,20,38,42,48,84
+1,"occups. per 1,000 ins.",rural (city >= 5K),21.79,5.9,7,18,21,25,46
+2,"orgs. per 1,000 ins.",urban (city < 5km),43.46,9.44,20,37,43,49,77
+3,"orgs. per 1,000 ins.",rural (city >= 5K),21.62,5.9,5,18,21,25,42
