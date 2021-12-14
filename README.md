@@ -43,13 +43,15 @@ CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob
 
 After you clone the repository, install python virtual environment by going to terminal and running the following commands:
 ```bash
-INTERPRETER=which python # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
+INTERPRETER="which python3" # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
 virtualenv socdiv_venv --python=$INTERPRETER
 
 socdiv_venv/bin/python -m pip install -r requirements.txt # install anything in requirements.txt
 socdiv_venv/bin/python -m ipykernel install --user --name=socdiv_venv
 
 ```
+Once you are done, open any jupyter notebook and check that you are connected to the `socdiv_venv` kernel.
+
 If you work on Apple M1 machine (as me), the installation of some packages (esp. `scipy` and `scikit-learn`) 
 might be tricky. I have finally found the solution in this thread: https://github.com/scikit-learn/scikit-learn/issues/19137
 
