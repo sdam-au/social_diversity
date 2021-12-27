@@ -1,11 +1,11 @@
-city,N inscriptions,N occupations,N occ. in largest sector,N sectors,DI
-Pompeii,3297,56,10,11,7.92
-Brigetio,438,17,3,9,7.41
-Norba,106,12,2,8,7.2
-Mogontiacum,3065,59,15,12,7.09
-Carnuntum (1),1155,18,4,10,7.04
-Roma,39882,1855,495,18,7.02
-Capua,3422,206,54,15,6.87
-Corduba,493,29,7,9,6.84
-Ostia,2614,280,68,13,6.51
-Luca,57,15,4,9,6.43
+city,pop. est.,N inscriptions,N occupations,N occ. in largest sector,N sectors,DI
+Pompeii,9938,3297,56,10,11,7.92
+Brigetio,7999,438,17,3,9,7.41
+Norba,5399,106,12,2,8,7.2
+Mogontiacum,19930,3065,59,15,12,7.09
+Carnuntum (1),7790,1155,18,4,10,7.04
+Roma,923313,39882,1855,495,18,7.02
+Capua,44416,3422,206,54,15,6.87
+Corduba,19404,493,29,7,9,6.84
+Ostia,35016,2614,280,68,13,6.51
+Luca,7376,57,15,4,9,6.43
