@@ -1,109 +1,109 @@
 ,occupation,count,Harris_Category,Source,HISCO_majorgroup,Subcategory,HISCO_minorgroup,Translation_eng,HISCO_majorgroup_descr
 0,curator,1062,Managerial,Waltzing,2,,21,"he who takes charge, a manager, overseer, superintendent, keeper, commissioner, delegate",Administrative and managerial workers
-1,faber,659,Metal-Working,Waltzing - Rome,9,,99,"a worker in wood, stone, metal, etc., a forger, smith, artificer, carpenter, joiner","Production and related workers, transport equipment operators and labourers"
+1,faber,566,Unclassfied,Waltzing - Rome,9,,99,"a worker in wood, stone, metal, etc., a forger, smith, artificer, carpenter, joiner","Production and related workers, transport equipment operators and labourers"
 2,medicus,252,Miscellaneous Services,Waltzing - Rome,0,,6,a surgeon,"Professional, technical and related workers"
 3,aerarius,229,Metal-Working,Waltzing - Rome,8,,83,metal worker,"Production and related workers, transport equipment operators and labourers"
 4,scriba,223,Education,Waltzing - Rome,3,,30,"a public writer, official scribe, professional writer, clerk, secretary",Clerical and related workers
-5,negotiator,148,Retail,Waltzing - Rome,4,,43,"one who does business by wholesale, a wholesale dealer, a banker, a factor",Sales workers
+5,frumentarius,139,Retail,EDH/EDCS,4,,43,trader with corn,Sales workers
 6,sagittarius,128,Metal-Working,Petrikovits 1981a,8,,83,"arrow-makers, arrow-smiths","Production and related workers, transport equipment operators and labourers"
-7,centonarius,124,Clothing,Waltzing - Rome,7,,79,"a maker of patchwork, a dealer in rags","Production and related workers, transport equipment operators and labourers"
-8,mensor,85,Miscellaneous Services,Waltzing - Rome,0,,2,"a measurer, surveyor","Professional, technical and related workers"
-9,argentarius,80,Metal-Working,Waltzing - Rome,8,,88,"jewellery maker, banker","Production and related workers, transport equipment operators and labourers"
+7,centonarius,114,Clothing,Waltzing - Rome,7,,79,"a maker of patchwork, a dealer in rags","Production and related workers, transport equipment operators and labourers"
+8,negotiator,104,Retail,Waltzing - Rome,4,,43,"one who does business by wholesale, a wholesale dealer, a banker, a factor",Sales workers
+9,mensor,85,Miscellaneous Services,Waltzing - Rome,0,,2,"a measurer, surveyor","Professional, technical and related workers"
 10,vexillarius,77,Miscellaneous Services,Waltzing - provinces,8,Military,83,"a standard-bearer, maker","Production and related workers, transport equipment operators and labourers"
-11,dendrophorus,68,Building,Waltzing - Rome,9,Wood worker,95,a carpenter,"Production and related workers, transport equipment operators and labourers"
-12,vestiarius,49,Retail,Waltzing - Rome,4,,43,a clothes-dealer,Sales workers
-13,scaenicus,44,Performing Arts,Waltzing - Rome,1,,17,"of the stage, scenic, dramatic, theatrical","Professional, technical and related workers"
-14,pistor,42,Food-Production,Waltzing - Rome,6,,61,"one who pounds corn in a mortar or grinds it in a hand-mill, a miller, a baker","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-15,architectus,41,Building,Petrikovits 1981a,0,,2,"a master-builder, architect","Professional, technical and related workers"
-16,arcarius,37,Finance,Petrikovits 1981a,3,,31,"treasurer, a controller of public revenues",Clerical and related workers
-17,negotians,36,Retail,Waltzing - Rome,4,,45,trader,Sales workers
-18,nauta,35,Transport,Waltzing - Rome,9,Maritime/water transport,98,"a sailor, seaman, mariner, merchant","Production and related workers, transport equipment operators and labourers"
-19,gladiator,34,Performing Arts,Waltzing - Rome,1,,17,gladiator,"Professional, technical and related workers"
-20,tignuarius,34,Building,Petrikovits 1981a,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
-21,possessor,29,Managerial,Waltzing - provinces,2,,22,"a possessor, owner",Administrative and managerial workers
-22,lecticarius,29,Food-Production,Waltzing - Rome,5,,53,a cook,Service workers
-23,vinarius,29,Food-Retail,Waltzing - provinces,4,,43,"a wine-dealer, vintner",Sales workers
+11,argentarius,75,Metal-Working,Waltzing - Rome,8,,88,"jewellery maker, banker","Production and related workers, transport equipment operators and labourers"
+12,dendrophorus,68,Building,Waltzing - Rome,9,Wood worker,95,a carpenter,"Production and related workers, transport equipment operators and labourers"
+13,vestiarius,47,Retail,Waltzing - Rome,4,,43,a clothes-dealer,Sales workers
+14,scaenicus,44,Performing Arts,Waltzing - Rome,1,,17,"of the stage, scenic, dramatic, theatrical","Professional, technical and related workers"
+15,pistor,42,Food-Production,Waltzing - Rome,6,,61,"one who pounds corn in a mortar or grinds it in a hand-mill, a miller, a baker","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+16,architectus,41,Building,Petrikovits 1981a,0,,2,"a master-builder, architect","Professional, technical and related workers"
+17,faber tignuarius,38,Building,Waltzing - Rome,0,,2,builder,"Professional, technical and related workers"
+18,arcarius,37,Finance,Petrikovits 1981a,3,,31,"treasurer, a controller of public revenues",Clerical and related workers
+19,nauta,35,Transport,Waltzing - Rome,9,Maritime/water transport,98,"a sailor, seaman, mariner, merchant","Production and related workers, transport equipment operators and labourers"
+20,gladiator,34,Performing Arts,Waltzing - Rome,1,,17,gladiator,"Professional, technical and related workers"
+21,negotians,34,Retail,Waltzing - Rome,4,,45,trader,Sales workers
+22,possessor,29,Managerial,Waltzing - provinces,2,,22,"a possessor, owner",Administrative and managerial workers
+23,lecticarius,29,Food-Production,Waltzing - Rome,5,,53,a cook,Service workers
 24,cocus,29,Food-Production,Petrikovits 1981a,5,,53,a cook ,Service workers
 25,conditor,28,Food-Production,Petrikovits 1981a,5,,53,"cook, a seasoner, pickler",Service workers
 26,mercator,28,Retail,Waltzing - Rome,4,,45,trader,Sales workers
-27,tignarius,27,Building,Waltzing - provinces,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
-28,structor,26,Building,Waltzing - Rome,9,Wood worker,95,"a builder, mason, carpenter","Production and related workers, transport equipment operators and labourers"
-29,cornicen,26,Performing Arts,Waltzing - Rome,1,,17,"a hornblower, trumpeter, cornet-player","Professional, technical and related workers"
-30,unctor,26,Miscellaneous Services,Waltzing - Rome,5,,57,an anointer,Service workers
-31,sagarius,25,Retail,Waltzing - Rome,4,,43,a dealer in mantles,Sales workers
-32,ornatrix,25,Miscellaneous Services,Petrikovits 1981a,5,,54,"female adorner, dresser",Service workers
-33,horrearius,25,Managerial,Waltzing - Rome,2,,22,the superintendent of a storehouse,Administrative and managerial workers
-34,marmorarius,24,Building,Waltzing - Rome,9,Stone worker,95,marble worker,"Production and related workers, transport equipment operators and labourers"
-35,nummularius,23,Finance,Waltzing - Rome,3,,33,a money-changer,Clerical and related workers
-36,navalis,23,Transport,Petrikovits 1981a,9,Maritime/water transport,98,"sailors, seamen","Production and related workers, transport equipment operators and labourers"
+27,structor,26,Building,Waltzing - Rome,9,Wood worker,95,"a builder, mason, carpenter","Production and related workers, transport equipment operators and labourers"
+28,cornicen,26,Performing Arts,Waltzing - Rome,1,,17,"a hornblower, trumpeter, cornet-player","Professional, technical and related workers"
+29,unctor,26,Miscellaneous Services,Waltzing - Rome,5,,57,an anointer,Service workers
+30,ornatrix,25,Miscellaneous Services,Petrikovits 1981a,5,,54,"female adorner, dresser",Service workers
+31,horrearius,25,Managerial,Waltzing - Rome,2,,22,the superintendent of a storehouse,Administrative and managerial workers
+32,marmorarius,24,Building,Waltzing - Rome,9,Stone worker,95,marble worker,"Production and related workers, transport equipment operators and labourers"
+33,faber tignarius,24,Building,Waltzing - Rome,0,,2,builder,"Professional, technical and related workers"
+34,ocularius,23,Miscellaneous Services,EDH/EDCS,0,,6,"eye doctor, eye related discipline","Professional, technical and related workers"
+35,vinarius,23,Food-Retail,Waltzing - provinces,4,,43,"a wine-dealer, vintner",Sales workers
+36,nummularius,22,Finance,Waltzing - Rome,3,,33,a money-changer,Clerical and related workers
 37,fullo,22,Clothing,Waltzing - Rome,7,,75,a cloth-fuller,"Production and related workers, transport equipment operators and labourers"
-38,tonsor,20,Miscellaneous Services,Waltzing - Rome,5,,57,"a shearer, clipper, shaver, hair-cutter, barber",Service workers
-39,sutor,20,Clothing,Waltzing - Rome,8,Shoe maker,80,"a shoemaker, cobbler","Production and related workers, transport equipment operators and labourers"
-40,pantomimus,20,Performing Arts,Waltzing - provinces,1,,17,a ballet-dancer,"Professional, technical and related workers"
-41,unguentarius,20,Miscellaneous Services,Petrikovits 1981a,5,,57,perfume or ointment maker,Service workers
-42,venator,18,Miscellaneous Services,Waltzing - Rome,6,,64,a hunter,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-43,retiarius,18,Performing Arts,Waltzing - provinces,1,,17,"a gladiator who used a net to entangle his adversary, net-fighter","Professional, technical and related workers"
-44,redemptor,18,Food-Production,Petrikovits 1981a,5,,53,"a miller, bread-maker, baker",Service workers
-45,pictor,18,Plastic Arts,Petrikovits 1981a,1,,16,painter,"Professional, technical and related workers"
-46,circitor,18,Managerial,Waltzing - provinces,2,,22,"A watchman, overseer, supervisor",Administrative and managerial workers
-47,purpurarius,17,Clothing,Petrikovits 1981a,7,Colour production,75,purple colour dyer,"Production and related workers, transport equipment operators and labourers"
-48,sarcinatrix,17,Clothing,Petrikovits 1981b,7,,79,"female patcher, botcher, mender of old garments","Production and related workers, transport equipment operators and labourers"
-49,coactor,17,Clothing,Petrikovits 1981a,7,,75,felt producer or seller,"Production and related workers, transport equipment operators and labourers"
-50,lapidarius,16,Building,Waltzing - provinces,7,Stone worker,71,stone-cutter,"Production and related workers, transport equipment operators and labourers"
+38,sagarius,20,Retail,Waltzing - Rome,4,,43,a dealer in mantles,Sales workers
+39,tonsor,20,Miscellaneous Services,Waltzing - Rome,5,,57,"a shearer, clipper, shaver, hair-cutter, barber",Service workers
+40,sutor,20,Clothing,Waltzing - Rome,8,Shoe maker,80,"a shoemaker, cobbler","Production and related workers, transport equipment operators and labourers"
+41,pantomimus,20,Performing Arts,Waltzing - provinces,1,,17,a ballet-dancer,"Professional, technical and related workers"
+42,unguentarius,20,Miscellaneous Services,Petrikovits 1981a,5,,57,perfume or ointment maker,Service workers
+43,venator,18,Miscellaneous Services,Waltzing - Rome,6,,64,a hunter,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+44,retiarius,18,Performing Arts,Waltzing - provinces,1,,17,"a gladiator who used a net to entangle his adversary, net-fighter","Professional, technical and related workers"
+45,redemptor,18,Food-Production,Petrikovits 1981a,5,,53,"a miller, bread-maker, baker",Service workers
+46,pictor,18,Plastic Arts,Petrikovits 1981a,1,,16,painter,"Professional, technical and related workers"
+47,circitor,18,Managerial,Waltzing - provinces,2,,22,"A watchman, overseer, supervisor",Administrative and managerial workers
+48,purpurarius,17,Clothing,Petrikovits 1981a,7,Colour production,75,purple colour dyer,"Production and related workers, transport equipment operators and labourers"
+49,sarcinatrix,17,Clothing,Petrikovits 1981b,7,,79,"female patcher, botcher, mender of old garments","Production and related workers, transport equipment operators and labourers"
+50,coactor,17,Clothing,Petrikovits 1981a,7,,75,felt producer or seller,"Production and related workers, transport equipment operators and labourers"
 51,aurifex,16,Metal-Working,Waltzing - Rome,8,,88,goldsmith,"Production and related workers, transport equipment operators and labourers"
 52,armamentarius,16,Miscellaneous Services,Petrikovits 1981a,5,Military,58,"an arsenal provider, armory keeper",Service workers
 53,scriptor,16,Managerial,Petrikovits 1981a,3,,30,"one who writes, a writer, scribe, copyist, clerk",Clerical and related workers
 54,topiarius,16,Miscellaneous Services,Petrikovits 1981a,5,,55,"gardener, landscaper",Service workers
-55,lanius,15,Food-Production,Waltzing - Rome,7,,77,a butcher,"Production and related workers, transport equipment operators and labourers"
-56,salarius,14,Retail,Waltzing - Rome,4,,43,"salt maker, dealer",Sales workers
+55,lapidarius,15,Building,Waltzing - provinces,7,Stone worker,71,stone-cutter,"Production and related workers, transport equipment operators and labourers"
+56,lanius,15,Food-Production,Waltzing - Rome,7,,77,a butcher,"Production and related workers, transport equipment operators and labourers"
 57,tector,14,Building,Waltzing - provinces,9,,95,"one that overlays walls with plaster, stucco, etc., a plasterer, pargeter","Production and related workers, transport equipment operators and labourers"
-58,margaritarius,14,Retail,Petrikovits 1981a,4,,43,"a dealer in pearls, a pearl-fisher",Sales workers
-59,scabillarius,14,Miscellaneous Services,Waltzing - Rome,9,,99,"player of a footstool, cricket","Production and related workers, transport equipment operators and labourers"
-60,dissignator,13,Managerial,Waltzing - provinces,2,,21,"an undertaker, manager",Administrative and managerial workers
-61,scutarius,13,Miscellaneous Services,Petrikovits 1981a,8,,83,shield maker,"Production and related workers, transport equipment operators and labourers"
-62,exceptor,12,Education,Waltzing - Rome,3,,32,"an amanuensis, short-hand writer, scribe",Clerical and related workers
-63,agrimensor,12,Miscellaneous Services,Petrikovits 1981a,0,,2,a landsurveyor,"Professional, technical and related workers"
-64,vascularius,12,Metal-Working,Waltzing - Rome,8,,88,"a worker in metals, whitesmith, goldsmith","Production and related workers, transport equipment operators and labourers"
+58,scabillarius,14,Miscellaneous Services,Waltzing - Rome,9,,99,"player of a footstool, cricket","Production and related workers, transport equipment operators and labourers"
+59,dissignator,13,Managerial,Waltzing - provinces,2,,21,"an undertaker, manager",Administrative and managerial workers
+60,scutarius,13,Miscellaneous Services,Petrikovits 1981a,8,,83,shield maker,"Production and related workers, transport equipment operators and labourers"
+61,margaritarius,13,Retail,Petrikovits 1981a,4,,43,"a dealer in pearls, a pearl-fisher",Sales workers
+62,navalis,12,Transport,Petrikovits 1981a,9,Maritime/water transport,98,"sailors, seamen","Production and related workers, transport equipment operators and labourers"
+63,exceptor,12,Education,Waltzing - Rome,3,,32,"an amanuensis, short-hand writer, scribe",Clerical and related workers
+64,agrimensor,12,Miscellaneous Services,Petrikovits 1981a,0,,2,a landsurveyor,"Professional, technical and related workers"
 65,cellarius,12,Household Goods,Petrikovits 1981a,5,,55,"one who keeps provisions, a steward, butler",Service workers
 66,pomarius,11,Food-Retail,Waltzing - provinces,4,,45,"of fruit, of fruittrees seller",Sales workers
-67,anularius,10,Metal-Working,Waltzing - Rome,8,,88,maker of rings,"Production and related workers, transport equipment operators and labourers"
-68,olearius,10,Food-Production,Waltzing - Rome,6,,61,"oil-maker, olive oil dealer","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-69,iumentarius,10,Transport,Waltzing - Rome,9,Land transport,97,of or belonging to draught-cattle,"Production and related workers, transport equipment operators and labourers"
-70,lanarius,10,Clothing,Waltzing - provinces,7,,75,a worker in wool,"Production and related workers, transport equipment operators and labourers"
-71,copo,10,Miscellaneous Services,Petrikovits 1981a,5,,51,innkeeper,Service workers
-72,lignarius,10,Building,Waltzing - provinces,9,Wood worker,95,"A worker in wood, a carpenter, joiner","Production and related workers, transport equipment operators and labourers"
-73,capsarius,10,Miscellaneous Services,Petrikovits 1981a,0,,6,"healing asssitant, producer of capsae (a repository, box, bookcase)","Professional, technical and related workers"
-74,codicarius,10,Transport,Waltzing - Rome,9,Maritime/water transport,98,those who sail on such ships (esp. those who brought the corn from Ostia to Rome),"Production and related workers, transport equipment operators and labourers"
-75,fictor,10,Plastic Arts,Petrikovits 1981a,1,,16,"a moulder, sculptor, image-maker, statuary","Professional, technical and related workers"
-76,poeta,9,Performing Arts,Waltzing - Rome,1,,17,a poet,"Professional, technical and related workers"
-77,parasitus,9,Performing Arts,Waltzing - provinces,1,,17,"a player, actor","Professional, technical and related workers"
-78,navicularius,9,Transport,Waltzing - Rome,0,Maritime/water transport,4,"a ship-owner who hires out vessels for money, a ship-master, merchant","Professional, technical and related workers"
-79,aquarius,9,Water-Management,Waltzing - provinces,9,,95,"fountain worker, of water, watery, water carrier","Production and related workers, transport equipment operators and labourers"
-80,lenuncularius,9,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
-81,quasillaria,9,Clothing,Petrikovits 1981a,7,,75,"a basketwench, spinning-girl","Production and related workers, transport equipment operators and labourers"
-82,ornator,8,Miscellaneous Services,Petrikovits 1981a,5,,54,"An adorner, dresser",Service workers
-83,seplasiarius,8,Miscellaneous Services,Petrikovits 1981a,9,,94,anoitment maker and seller,"Production and related workers, transport equipment operators and labourers"
-84,piscator,8,Food-Production,Waltzing - Rome,6,,64,"a fisherman, fisher","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-85,plumbarius,8,Metal-Working,Petrikovits 1981a,8,,87,"a plumber, lead worker","Production and related workers, transport equipment operators and labourers"
-86,clavicularius,8,Metal-Working,Petrikovits 1981a,8,,83,"A bar, bolt of the door maker, or guardian of a prison","Production and related workers, transport equipment operators and labourers"
-87,tibicinus,8,Performing Arts,Waltzing - Rome,1,,17,flute player,"Professional, technical and related workers"
-88,aurificus,8,Metal-Working,Petrikovits 1981a,8,,88,"goldworker, goldsmith","Production and related workers, transport equipment operators and labourers"
-89,magnarius,8,Retail,Waltzing - Rome,4,,43,"a dealer in gross, wholesale dealer",Sales workers
-90,officinator,8,Miscellaneous Services,Petrikovits 1981a,5,,51,"one who keeps a workshop, a master-workman, an artificer, artist",Service workers
-91,caligarius,7,Clothing,Waltzing - Rome,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
-92,ferrarius,7,Metal-Working,Petrikovits 1981a,8,,83,iron smith,"Production and related workers, transport equipment operators and labourers"
-93,forensis,7,Managerial,Waltzing - provinces,2,,22,"of or belonging to the market or forum, public, trader, a public pleader, advocate",Administrative and managerial workers
-94,materiarius,7,Building,Petrikovits 1981a,9,Wood worker,95,wood-worker,"Production and related workers, transport equipment operators and labourers"
-95,scholasticus,7,Education,Waltzing - provinces,1,,13,"who teaches or studies rhetoric, a lecturer in the schools, a rhetorician","Professional, technical and related workers"
-96,fossor,7,Building,Petrikovits 1981a,9,,97,"a digger, delver, ditcher","Production and related workers, transport equipment operators and labourers"
-97,aedifex,7,Building,Petrikovits 1981a,0,,2,builder,"Professional, technical and related workers"
-98,colorator,6,Clothing,Petrikovits 1981a,7,Colour production,75,"dyer, colormaker, painter","Production and related workers, transport equipment operators and labourers"
-99,tabernarius,6,Retail,Waltzing - Rome,4,,45,"shopkeepers, small dealers",Sales workers
-100,artifex,6,Plastic Arts,Petrikovits 1981a,1,,16,"One that is master in the liberal arts,an artist, artificer","Professional, technical and related workers"
-101,gladiarius,6,Metal-Working,Petrikovits 1981a,8,,83,a sword-cutler,"Production and related workers, transport equipment operators and labourers"
-102,acceptor,5,Finance,Waltzing - Rome,3,,31,"collector, gold quality checker",Clerical and related workers
-103,subaedianus,5,Building,Waltzing - Rome,9,Wood worker,95,carpenter ?,"Production and related workers, transport equipment operators and labourers"
-104,dolabrarius,5,Metal-Working,Waltzing - provinces,8,,83,a pickaxe-maker,"Production and related workers, transport equipment operators and labourers"
+67,faber navalis,11,Transport,Waltzing - Rome,9,Maritime/water transport,95,boat constructors,"Production and related workers, transport equipment operators and labourers"
+68,salarius,11,Retail,Waltzing - Rome,4,,43,"salt maker, dealer",Sales workers
+69,vascularius,11,Metal-Working,Waltzing - Rome,8,,88,"a worker in metals, whitesmith, goldsmith","Production and related workers, transport equipment operators and labourers"
+70,iumentarius,10,Transport,Waltzing - Rome,9,Land transport,97,of or belonging to draught-cattle,"Production and related workers, transport equipment operators and labourers"
+71,faber centonarius,10,Clothing,Ghent Database Roman Guilds,7,,75,textile maker,"Production and related workers, transport equipment operators and labourers"
+72,copo,10,Miscellaneous Services,Petrikovits 1981a,5,,51,innkeeper,Service workers
+73,lignarius,10,Building,Waltzing - provinces,9,Wood worker,95,"A worker in wood, a carpenter, joiner","Production and related workers, transport equipment operators and labourers"
+74,capsarius,10,Miscellaneous Services,Petrikovits 1981a,0,,6,"healing asssitant, producer of capsae (a repository, box, bookcase)","Professional, technical and related workers"
+75,codicarius,10,Transport,Waltzing - Rome,9,Maritime/water transport,98,those who sail on such ships (esp. those who brought the corn from Ostia to Rome),"Production and related workers, transport equipment operators and labourers"
+76,fictor,10,Plastic Arts,Petrikovits 1981a,1,,16,"a moulder, sculptor, image-maker, statuary","Professional, technical and related workers"
+77,poeta,9,Performing Arts,Waltzing - Rome,1,,17,a poet,"Professional, technical and related workers"
+78,olearius,9,Food-Production,Waltzing - Rome,6,,61,"oil-maker, olive oil dealer","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+79,parasitus,9,Performing Arts,Waltzing - provinces,1,,17,"a player, actor","Professional, technical and related workers"
+80,navicularius,9,Transport,Waltzing - Rome,0,Maritime/water transport,4,"a ship-owner who hires out vessels for money, a ship-master, merchant","Professional, technical and related workers"
+81,anularius,9,Metal-Working,Waltzing - Rome,8,,88,maker of rings,"Production and related workers, transport equipment operators and labourers"
+82,aquarius,9,Water-Management,Waltzing - provinces,9,,95,"fountain worker, of water, watery, water carrier","Production and related workers, transport equipment operators and labourers"
+83,lanarius,9,Clothing,Waltzing - provinces,7,,75,a worker in wool,"Production and related workers, transport equipment operators and labourers"
+84,lenuncularius,9,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
+85,quasillaria,9,Clothing,Petrikovits 1981a,7,,75,"a basketwench, spinning-girl","Production and related workers, transport equipment operators and labourers"
+86,ornator,8,Miscellaneous Services,Petrikovits 1981a,5,,54,"An adorner, dresser",Service workers
+87,piscator,8,Food-Production,Waltzing - Rome,6,,64,"a fisherman, fisher","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+88,plumbarius,8,Metal-Working,Petrikovits 1981a,8,,87,"a plumber, lead worker","Production and related workers, transport equipment operators and labourers"
+89,clavicularius,8,Metal-Working,Petrikovits 1981a,8,,83,"A bar, bolt of the door maker, or guardian of a prison","Production and related workers, transport equipment operators and labourers"
+90,tibicinus,8,Performing Arts,Waltzing - Rome,1,,17,flute player,"Professional, technical and related workers"
+91,aurificus,8,Metal-Working,Petrikovits 1981a,8,,88,"goldworker, goldsmith","Production and related workers, transport equipment operators and labourers"
+92,magnarius,8,Retail,Waltzing - Rome,4,,43,"a dealer in gross, wholesale dealer",Sales workers
+93,officinator,8,Miscellaneous Services,Petrikovits 1981a,5,,51,"one who keeps a workshop, a master-workman, an artificer, artist",Service workers
+94,caligarius,7,Clothing,Waltzing - Rome,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
+95,forensis,7,Managerial,Waltzing - provinces,2,,22,"of or belonging to the market or forum, public, trader, a public pleader, advocate",Administrative and managerial workers
+96,seplasiarius,7,Miscellaneous Services,Petrikovits 1981a,9,,94,anoitment maker and seller,"Production and related workers, transport equipment operators and labourers"
+97,scholasticus,7,Education,Waltzing - provinces,1,,13,"who teaches or studies rhetoric, a lecturer in the schools, a rhetorician","Professional, technical and related workers"
+98,fossor,7,Building,Petrikovits 1981a,9,,97,"a digger, delver, ditcher","Production and related workers, transport equipment operators and labourers"
+99,aedifex,7,Building,Petrikovits 1981a,0,,2,builder,"Professional, technical and related workers"
+100,colorator,6,Clothing,Petrikovits 1981a,7,Colour production,75,"dyer, colormaker, painter","Production and related workers, transport equipment operators and labourers"
+101,tabernarius,6,Retail,Waltzing - Rome,4,,45,"shopkeepers, small dealers",Sales workers
+102,artifex,6,Plastic Arts,Petrikovits 1981a,1,,16,"One that is master in the liberal arts,an artist, artificer","Professional, technical and related workers"
+103,negotiator vinarius,6,Retail,EDH/EDCS,4,,43,wine trader,Sales workers
+104,acceptor,5,Finance,Waltzing - Rome,3,,31,"collector, gold quality checker",Clerical and related workers
 105,quadratarius,5,Building,Petrikovits 1981a,9,Stone worker,95,stonemason,"Production and related workers, transport equipment operators and labourers"
 106,utricularius,5,Transport,Waltzing - provinces,0,Maritime/water transport,4,"a bagpiper, The master of a raft floated on bladders, used for ferriage","Professional, technical and related workers"
 107,aurarius,5,Metal-Working,Waltzing - provinces,7,,71,gold-mine worker,"Production and related workers, transport equipment operators and labourers"
@@ -111,239 +111,279 @@
 109,saccarius,5,Transport,Waltzing - Rome,9,Land transport,97,"one who carries sacks, sack maker","Production and related workers, transport equipment operators and labourers"
 110,hastifer,5,Miscellaneous Services,Waltzing - provinces,5,,58,city militia,Service workers
 111,pequarius,5,Food-Production,Waltzing - Rome,6,,62,"sheep, cattle breader","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-112,plumarius,5,Household Goods,Waltzing - Rome,7,,79,an embroiderer,"Production and related workers, transport equipment operators and labourers"
-113,textor,5,Clothing,Petrikovits 1981a,7,,75,weaver,"Production and related workers, transport equipment operators and labourers"
-114,cerarius,5,Household Goods,Petrikovits 1981a,7,,77,manufacturer of wax products,"Production and related workers, transport equipment operators and labourers"
-115,gerulus,5,Transport,Waltzing - Rome,9,Land transport,97,"a carrier, porter","Production and related workers, transport equipment operators and labourers"
-116,curator navium,5,Managerial,Waltzing - Rome,2,,21,ship manager,Administrative and managerial workers
-117,coronarius,5,Miscellaneous Services,Waltzing - Rome,8,,88,maker of wreaths/crowns,"Production and related workers, transport equipment operators and labourers"
-118,corarius,5,Clothing,Waltzing - Rome,7,,76,tanner of leather and hides,"Production and related workers, transport equipment operators and labourers"
-119,faber tignuarii,5,Building,Waltzing - Rome,0,,2,builder,"Professional, technical and related workers"
-120,navigans,4,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
-121,lintiarius,4,Clothing,Waltzing - provinces,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
-122,brattiarius,4,Metal-Working,Petrikovits 1981a,8,,88,"goldsheet maker, worker","Production and related workers, transport equipment operators and labourers"
-123,institor,4,Retail,Petrikovits 1981a,4,,45,"a factor, broker, huckster, hawker, peddler",Sales workers
-124,diffusor,4,Food-Retail,Waltzing - provinces,4,,43,trader of oil,Sales workers
-125,calcarius,4,Building,Petrikovits 1981a,7,Stone worker,71,limestone quarry worker,"Production and related workers, transport equipment operators and labourers"
-126,aeneator,4,Performing Arts,Waltzing - Rome,1,,17,"musician, one who blows a horn in war
+112,materiarius,5,Building,Petrikovits 1981a,9,Wood worker,95,wood-worker,"Production and related workers, transport equipment operators and labourers"
+113,plumarius,5,Household Goods,Waltzing - Rome,7,,79,an embroiderer,"Production and related workers, transport equipment operators and labourers"
+114,textor,5,Clothing,Petrikovits 1981a,7,,75,weaver,"Production and related workers, transport equipment operators and labourers"
+115,gladiarius,5,Metal-Working,Petrikovits 1981a,8,,83,a sword-cutler,"Production and related workers, transport equipment operators and labourers"
+116,faber argentarius,5,Metal-Working,Waltzing - Rome,8,,88,"silver-smith, money-maker","Production and related workers, transport equipment operators and labourers"
+117,cerarius,5,Household Goods,Petrikovits 1981a,7,,77,manufacturer of wax products,"Production and related workers, transport equipment operators and labourers"
+118,ferrarius,5,Metal-Working,Petrikovits 1981a,8,,83,iron smith,"Production and related workers, transport equipment operators and labourers"
+119,gerulus,5,Transport,Waltzing - Rome,9,Land transport,97,"a carrier, porter","Production and related workers, transport equipment operators and labourers"
+120,curator navium,5,Managerial,Waltzing - Rome,2,,21,ship manager,Administrative and managerial workers
+121,coronarius,5,Miscellaneous Services,Waltzing - Rome,8,,88,maker of wreaths/crowns,"Production and related workers, transport equipment operators and labourers"
+122,corarius,5,Clothing,Waltzing - Rome,7,,76,tanner of leather and hides,"Production and related workers, transport equipment operators and labourers"
+123,navigans,4,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
+124,brattiarius,4,Metal-Working,Petrikovits 1981a,8,,88,"goldsheet maker, worker","Production and related workers, transport equipment operators and labourers"
+125,institor,4,Retail,Petrikovits 1981a,4,,45,"a factor, broker, huckster, hawker, peddler",Sales workers
+126,diffusor,4,Food-Retail,Waltzing - provinces,4,,43,trader of oil,Sales workers
+127,negotiator cretarius,4,Retail,EDH/EDCS,4,,43,pottery trader,Sales workers
+128,calcarius,4,Building,Petrikovits 1981a,7,Stone worker,71,limestone quarry worker,"Production and related workers, transport equipment operators and labourers"
+129,tignarius,4,Building,Waltzing - provinces,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
+130,aeneator,4,Performing Arts,Waltzing - Rome,1,,17,"musician, one who blows a horn in war
 ","Professional, technical and related workers"
-127,essedarius,4,Miscellaneous Services,Petrikovits 1981a,5,Military,58,a fighter in a war-chariot,Service workers
-128,pecuarius,4,Food-Production,Waltzing - Rome,6,,62,"sheep, cattle breader","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-129,pausarius,4,Finance,Waltzing - Rome,3,,33,"A money-changer, banker",Clerical and related workers
-130,paenularius,4,Clothing,Petrikovits 1981a,7,,79,cloak or mantle maker and seller,"Production and related workers, transport equipment operators and labourers"
-131,urinator,4,Food-Production,Waltzing - Rome,6,,64,a fisherman,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-132,scalptor,4,Plastic Arts,Petrikovits 1981a,1,,16,"a cutter, graver in metal or stone","Professional, technical and related workers"
-133,opifex,4,Building,Waltzing - provinces,0,,2,"a worker, workman, mechanic, artisan","Professional, technical and related workers"
-134,mulionus,4,Transport,Waltzing - provinces,9,Land transport,98,of a mule-driver,"Production and related workers, transport equipment operators and labourers"
-135,candidator,4,Clothing,Petrikovits 1981a,7,,79,"uncertain, textile washer","Production and related workers, transport equipment operators and labourers"
-136,specularius,4,Glass-Working,Waltzing - Rome,8,,89,"a mirror-maker, window glass maker","Production and related workers, transport equipment operators and labourers"
-137,caupo,4,Retail,Petrikovits 1981a,4,,43,"a petty tradesman, huckster, innkeeper",Sales workers
-138,sacomarius,4,Miscellaneous Services,Petrikovits 1981a,8,,83,one who makes counterpoises or weights ,"Production and related workers, transport equipment operators and labourers"
-139,intestinarius,4,Building,Petrikovits 1981a,8,Wood worker,82,woodworker,"Production and related workers, transport equipment operators and labourers"
-140,apparator,4,Miscellaneous Services,Waltzing - Rome,9,,99,one that prepares,"Production and related workers, transport equipment operators and labourers"
-141,stuppator,4,Building,Petrikovits 1981a,8,Wood worker,81,"caulker, joiner","Production and related workers, transport equipment operators and labourers"
-142,figulus,3,Household Goods,Waltzing - Rome,8,,89,a potter,"Production and related workers, transport equipment operators and labourers"
-143,agricola,3,Food-Production,Petra's addition,6,,62,"a husbandman, agriculturist, ploughman, farmer, peasant","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-144,sartor,3,Miscellaneous Services,Petrikovits 1981a,6,,61,"A hoer, weeder, cultivator","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-145,offector,3,Clothing,Petrikovits 1981a,7,Colour production,75,dyer,"Production and related workers, transport equipment operators and labourers"
-146,caelator,3,Plastic Arts,Petrikovits 1981a,1,,16,"relief maker, carver","Professional, technical and related workers"
-147,factor,3,Food-Production,Petrikovits 1981a,6,,61,an oil-presser,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-148,tegularius,3,Building,Petrikovits 1981a,9,,95,"a tile, roof-tile maker","Production and related workers, transport equipment operators and labourers"
-149,infector,3,Clothing,Petrikovits 1981a,7,Colour production,75,a dyer,"Production and related workers, transport equipment operators and labourers"
-150,cervesarius,3,Food-Production,Petrikovits 1981a,5,,53,"beermaker, brewer",Service workers
-151,fontanus,3,Water-Management,Waltzing - provinces,9,,95,"of a spring, from a fountain, spring, worker?","Production and related workers, transport equipment operators and labourers"
-152,spatharius,3,Metal-Working,Petrikovits 1981a,8,,83,"a broad sword with a double edge, sabre maker","Production and related workers, transport equipment operators and labourers"
-153,athleta,3,Performing Arts,Waltzing - provinces,1,,17,"a wrestler, athlete, combatant in public games","Professional, technical and related workers"
-154,manticularius,3,Clothing,Waltzing - provinces,7,,79,"manufacturer of a small wallet, purse, pouch","Production and related workers, transport equipment operators and labourers"
-155,clavarius,3,Metal-Working,Petrikovits 1981a,8,,83,nail maker,"Production and related workers, transport equipment operators and labourers"
-156,nauclerus,3,Transport,Waltzing - provinces,0,Maritime/water transport,4,"a shipowner, a ship-master, skipper","Professional, technical and related workers"
-157,cuparius,3,Metal-Working,Waltzing - provinces,8,,83,a cooper,"Production and related workers, transport equipment operators and labourers"
-158,vinariarius,3,Food-Retail,Waltzing - Rome,4,,43,a wine - dealer,Sales workers
-159,archimagirus,3,Food-Production,Petrikovits 1981a,5,,53,chef,Service workers
-160,suarius,3,Food-Production,Waltzing - Rome,6,,62,pig breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-161,sculptor,3,Plastic Arts,Petrikovits 1981a,1,,16,"one who cuts, carves, or engraves in stone, wood","Professional, technical and related workers"
-162,capulator,3,Miscellaneous Services,Waltzing - Rome,5,,53,decanter,Service workers
-163,caplator,3,Transport,Waltzing - provinces,9,,97,oil transporter,"Production and related workers, transport equipment operators and labourers"
-164,scapharius,3,Transport,Waltzing - Rome,0,Maritime/water transport,4,owner of a small boat,"Professional, technical and related workers"
-165,unctrix,3,Miscellaneous Services,Petrikovits 1981a,5,,57,female perfume or ointment maker,Service workers
-166,machinarius,3,Building,Petrikovits 1981a,9,,95,"a machinist, machine-builder,","Production and related workers, transport equipment operators and labourers"
-167,vestiplicus,3,Clothing,Petrikovits 1981a,7,,79,a clothes-folder,"Production and related workers, transport equipment operators and labourers"
-168,vestificus,3,Clothing,Petrikovits 1981a,7,,79,tailor,"Production and related workers, transport equipment operators and labourers"
-169,lectarius,3,Household Goods,Petrikovits 1981a,8,,81,a couch-maker,"Production and related workers, transport equipment operators and labourers"
-170,politor,3,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
-171,eborarius,3,Miscellaneous Services,Waltzing - Rome,8,,88,a worker in ivory,"Production and related workers, transport equipment operators and labourers"
-172,sector,2,Building,Waltzing - Rome,8,,82,"one who cuts, a cutter","Production and related workers, transport equipment operators and labourers"
-173,carminator,2,Clothing,Petrikovits 1981a,7,,75,"a carder, practitioner of carding, a method of preparing wool for use as a textile","Production and related workers, transport equipment operators and labourers"
-174,mesor,2,Miscellaneous Services,Petrikovits 1981a,0,,2,"a measurer, surveyor","Professional, technical and related workers"
-175,utriclarius,2,Transport,Waltzing - provinces,0,Maritime/water transport,4,"a bagpiper, The master of a raft floated on bladders, used for ferriage","Professional, technical and related workers"
-176,canalicularius,2,Water-Management,Petrikovits 1981a,9,,95,"canal constructor, specialized worker","Production and related workers, transport equipment operators and labourers"
-177,arenarius,2,Performing Arts,Waltzing - provinces,1,,17,"harenarius, combatant in the amphitheatre, a gladiator","Professional, technical and related workers"
-178,intestinus,2,Building,Petrikovits 1981a,8,Wood worker,82,woodworker,"Production and related workers, transport equipment operators and labourers"
-179,fabriciensis,2,Metal-Working,Petrikovits 1981a,8,,83,an armorer,"Production and related workers, transport equipment operators and labourers"
-180,fabricensis,2,Metal-Working,Waltzing - provinces,8,,83,an armorer,"Production and related workers, transport equipment operators and labourers"
-181,operarius,2,Miscellaneous Services,Petrikovits 1981a,9,,94,"a laborer, workman, operative","Production and related workers, transport equipment operators and labourers"
-182,legulus,2,Food-Production,Petrikovits 1981a,6,,61,"a gatherer, collector; esp. one who picked up the fallen olives","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-183,gypsarius,2,Building,Petrikovits 1981a,9,,95,plaster worker,"Production and related workers, transport equipment operators and labourers"
-184,naupegus,2,Transport,Petrikovits 1981a,9,Maritime/water transport,95,"a shipbuilder, shipwright, ship-carpenter","Production and related workers, transport equipment operators and labourers"
-185,propola,2,Retail,Waltzing - provinces,4,,45,"a forestaller, retailer, huckster",Sales workers
-186,pectenarius,2,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
-187,gisiarius,2,Transport,Waltzing - provinces,9,Land transport,95,The maker / driver of a cabriolet,"Production and related workers, transport equipment operators and labourers"
-188,coriarius,2,Clothing,Waltzing - provinces,7,,76,"a tanner, currier","Production and related workers, transport equipment operators and labourers"
-189,annonarius,2,Managerial,Waltzing - provinces,3,,30,of or pertaining to provisions,Clerical and related workers
-190,pollio,2,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
-191,statuarius,2,Plastic Arts,Petrikovits 1981a,1,,16,"a maker of statues, a statuary ","Professional, technical and related workers"
-192,speculariarius,2,Glass-Working,Petrikovits 1981a,8,,89,"a mirror-maker, window glass maker","Production and related workers, transport equipment operators and labourers"
-193,vector,2,Transport,Waltzing - Rome,9,Land transport,97,"one who bears, a bearer, carrier","Production and related workers, transport equipment operators and labourers"
-194,vestitor,2,Clothing,Petrikovits 1981a,7,,79,tailor,"Production and related workers, transport equipment operators and labourers"
-195,macellarius,2,Food-Production,Waltzing - provinces,7,,77,butcher,"Production and related workers, transport equipment operators and labourers"
-196,professor,2,Education,Waltzing - provinces,1,,13,a public teacher,"Professional, technical and related workers"
-197,salinator,2,Food-Retail,Waltzing - provinces,4,,45,a dealer in salt,Sales workers
-198,molendarius,2,Food-Production,Waltzing - Rome,6,,61,miller,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-199,restio,2,Retail,Waltzing - Rome,4,,43,"A ropemaker, rope-seller",Sales workers
-200,lanipendia,2,Clothing,Petrikovits 1981b,7,,75,one who weighs out wool,"Production and related workers, transport equipment operators and labourers"
-201,linarius,2,Clothing,Waltzing - provinces,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
-202,confector,2,Miscellaneous Services,Petrikovits 1981a,7,,76,"an accomplisher, finisher, a tanner","Production and related workers, transport equipment operators and labourers"
-203,custodiarius,2,Miscellaneous Services,Waltzing - Rome,5,,58,a jailer,Service workers
-204,lintio,2,Clothing,Petrikovits 1981a,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
-205,ratiarius,2,Transport,Waltzing - provinces,9,Maritime/water transport,98,"a raftsman, lighterman","Production and related workers, transport equipment operators and labourers"
-206,tignor,2,Building,Petrikovits 1981a,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
-207,cultrarius,2,Metal-Working,Petrikovits 1981a,8,,83,"knife maker, cutler","Production and related workers, transport equipment operators and labourers"
-208,sericarius,2,Clothing,Petrikovits 1981a,7,,75,silk producer and dealer,"Production and related workers, transport equipment operators and labourers"
-209,dominus navium,2,Transport,Waltzing - Rome,0,Maritime/water transport,4,shipmaster,"Professional, technical and related workers"
-210,mimus,2,Performing Arts,Waltzing - Rome,1,,17,mime,"Professional, technical and related workers"
-211,pellio,2,Clothing,Petrikovits 1981a,7,,76,"one that prepares skins, a furrier","Production and related workers, transport equipment operators and labourers"
-212,libarius,2,Food-Production,Petrikovits 1981a,5,,53,"a pastry-cook, confectioner",Service workers
-213,gemmarius,2,Plastic Arts,Petrikovits 1981a,1,,16,"gem maker, carver","Professional, technical and related workers"
-214,cisiarius,2,Transport,Waltzing - Rome,9,Land transport,95,The maker / driver of a cabriolet,"Production and related workers, transport equipment operators and labourers"
-215,siricarius,2,Clothing,Petrikovits 1981a,7,,75,silk producer and dealer,"Production and related workers, transport equipment operators and labourers"
-216,tonstrix,2,Miscellaneous Services,Petrikovits 1981a,5,,55,female hairdresser and shearers,Service workers
-217,sarcinator,2,Clothing,Petrikovits 1981a,7,,79,"a patcher, botcher, mender of old garments","Production and related workers, transport equipment operators and labourers"
-218,suppostor,2,Finance,Petrikovits 1981a,3,,31,coin maker,Clerical and related workers
-219,signator,2,Finance,Petrikovits 1981a,3,,39,"one who stamps money, a coiner",Clerical and related workers
-220,inaurator,2,Metal-Working,Waltzing - Rome,8,,88,a gilder,"Production and related workers, transport equipment operators and labourers"
-221,boarius,2,Food-Production,Waltzing - Rome,6,,62,cattle breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-222,solatarius,2,Clothing,Petrikovits 1981a,8,Shoe maker,80,shoe maker,"Production and related workers, transport equipment operators and labourers"
-223,panarius,2,Food-Retail,Petrikovits 1981a,4,,45,a bread-seller,Sales workers
-224,fidicinus,2,Performing Arts,Waltzing - Rome,1,,17,lute player,"Professional, technical and related workers"
-225,calciator,2,Clothing,Petrikovits 1981a,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
-226,tostrix,2,Miscellaneous Services,Petrikovits 1981a,5,,57,female hairdresser and shearers,Service workers
-227,flaturarius,2,Metal-Working,Petrikovits 1981a,8,,83,a caster,"Production and related workers, transport equipment operators and labourers"
-228,faenarius,2,Finance,Waltzing - Rome,3,,39,one who lends money on interest,Clerical and related workers
-229,tabernacularius,2,Miscellaneous Services,Petrikovits 1981a,7,,79,tent maker,"Production and related workers, transport equipment operators and labourers"
-230,axearius,2,Building,Petrikovits 1981a,8,,82,"uncertain, board-cutter","Production and related workers, transport equipment operators and labourers"
-231,barbaricarius,2,Clothing,Petrikovist 1981b,7,,75,textile worker,"Production and related workers, transport equipment operators and labourers"
-232,scalarius,2,Building,Petrikovits 1981a,9,,95,"step maker, ladder maker","Production and related workers, transport equipment operators and labourers"
-233,carpentarius,2,Transport,Petrikovits 1981b,9,Land transport,95,a wheelwright,"Production and related workers, transport equipment operators and labourers"
-234,dolator,1,Building,Petrikovits 1981a,9,,95,worker with an axe,"Production and related workers, transport equipment operators and labourers"
-235,pectinarius,1,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
-236,caementarius,1,Building,Petrikovits 1981a,9,Stone worker,95,mason,"Production and related workers, transport equipment operators and labourers"
-237,soliarius,1,Clothing,Petrikovits 1981a,8,Shoe maker,80,shoe maker,"Production and related workers, transport equipment operators and labourers"
-238,subidianus,1,Building,Waltzing - provinces,9,Wood worker,95,carpenter ?,"Production and related workers, transport equipment operators and labourers"
-239,anaglyptarius,1,Plastic Arts,Petrikovits 1981a,1,,16,"relief maker, carver","Professional, technical and related workers"
-240,lanificus,1,Clothing,Petrikovits 1981a,7,,75,a wool-spinner,"Production and related workers, transport equipment operators and labourers"
-241,lapicida,1,Building,Petrikovits 1981a,7,Stone worker,71,"a quarryman, stone-cutter","Production and related workers, transport equipment operators and labourers"
-242,faber ferrarii,1,Metal-Working,Waltzing - Rome,8,,83,blacksmith,"Production and related workers, transport equipment operators and labourers"
-243,scultor,1,Plastic Arts,Petrikovits 1981a,1,,16,"one who cuts, carves, or engraves in stone, wood","Professional, technical and related workers"
-244,olarius,1,Household Goods,Petrikovits 1981a,8,,89,potter,"Production and related workers, transport equipment operators and labourers"
-245,conquiliarius,1,Clothing,Petrikovits 1981a,7,Colour production,75,a collector of purpur shell-fish,"Production and related workers, transport equipment operators and labourers"
-246,calegarius,1,Clothing,Petrikovits 1981a,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
-247,pistur,1,Food-Production,Petrikovits 1981a,6,,61,"one who pounds corn in a mortar or grinds it in a hand-mill, a miller, a baker","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-248,moritex,1,Unclear meaning,Petrikovits 1981a,,,,unclear,
-249,focarius,1,Food-Production,Waltzing - provinces,5,,53,"a kitchen-boy; a kitchen-maid, cook",Service workers
-250,conflator,1,Metal-Working,Petrikovits 1981a,8,,83,a metal-caster,"Production and related workers, transport equipment operators and labourers"
-251,vasclarius,1,Metal-Working,Petrikovits 1981a,8,,88,"a worker in metals, whitesmith, goldsmith","Production and related workers, transport equipment operators and labourers"
-252,carbonarus,1,Fuel / Raw material,Petrikovits 1981a,7,,71,"coal handler, worker, miner","Production and related workers, transport equipment operators and labourers"
-253,imaginarius,1,Plastic Arts,Petrikovits 1981a,1,,16,painter,"Professional, technical and related workers"
-254,anabolicarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,one day sailor,"Production and related workers, transport equipment operators and labourers"
-255,machinator,1,Miscellaneous Services,Petrikovits 1981a,0,,2,"a maker of machines, a machinist, an engineer, architect","Professional, technical and related workers"
-256,polio,1,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
-257,artefex,1,Plastic Arts,Petrikovits 1981a,1,,16,"One that is master in the liberal arts,an artist, artificer","Professional, technical and related workers"
-258,tubularius,1,Water-Management,Petrikovits 1981a,8,,87,pipe maker,"Production and related workers, transport equipment operators and labourers"
-259,camararius,1,Building,Petrikovits 1981a,9,,95,vault building worker,"Production and related workers, transport equipment operators and labourers"
-260,lanionus,1,Food-Production,Waltzing - provinces,7,,77,of or belonging to a butcher,"Production and related workers, transport equipment operators and labourers"
-261,clibanarius,1,Food-Production,Waltzing - provinces,5,,53,"a soldier clad in mail, a cuirassier, baker",Service workers
-262,decanus,1,Managerial,Waltzing - Rome,2,,22,"A chief of ten, one set over ten persons",Administrative and managerial workers
-263,molinarius,1,Food-Production,Petrikovits 1981a,6,,61,miller,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-264,aurufex,1,Metal-Working,Petrikovits 1981a,8,,88,"goldworker, goldsmith","Production and related workers, transport equipment operators and labourers"
-265,ephippiarius,1,Transport,Petrikovits 1981a,8,Land transport,80,saddler,"Production and related workers, transport equipment operators and labourers"
-266,lupinarius,1,Food-Retail,Waltzing - Rome,4,,43,dealers in lupines,Sales workers
-267,harenarius,1,Performing Arts,Waltzing - provinces,1,,17,"A combatant in the amphitheatre, a gladiator or A teacher of the elements of arithmetic","Professional, technical and related workers"
-268,laniarius,1,Food-Production,Petrikovits 1981a,5,,53,a butcher,Service workers
-269,lanio,1,Food-Production,Petrikovits 1981a,7,,77,a butcher,"Production and related workers, transport equipment operators and labourers"
-270,rosarius,1,Retail,Waltzing - Rome,4,,43,seller of roses,Sales workers
-271,faber tignarii,1,Building,Waltzing - Rome,0,,2,builder,"Professional, technical and related workers"
-272,scaenarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
-273,cellio,1,Household Goods,Petrikovits 1981a,5,,55,"one who keeps provisions, a steward, butler",Service workers
-274,lotorus,1,Clothing,Waltzing - provinces,7,,75,"fuller, clening wool","Production and related workers, transport equipment operators and labourers"
-275,navigator,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,sailor,"Production and related workers, transport equipment operators and labourers"
-276,lanternarius,1,Household Goods,Petrikovits 1981a,8,,81,lamp maker,"Production and related workers, transport equipment operators and labourers"
-277,porcinarius,1,Food-Production,Waltzing - Rome,6,,62,pig breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-278,candidarius,1,Food-Production,Petrikovits 1981a,5,,53,a baker,Service workers
-279,saburrarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,97,one who carries ballast to ships,"Production and related workers, transport equipment operators and labourers"
-280,cisianus,1,Transport,Petrikovits 1981a,9,,95,"uncertain, the maker / driver of a cabriolet","Production and related workers, transport equipment operators and labourers"
-281,nauticarius,1,Transport,Waltzing - Rome,0,Maritime/water transport,4,a shipmaster,"Professional, technical and related workers"
-282,ollarius,1,Household Goods,Petrikovts 1981b,8,,89,potter,"Production and related workers, transport equipment operators and labourers"
-283,navigiarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
-284,lyntrarius,1,Transport,Waltzing - provinces,9,Maritime/water transport,95,raft-maker,"Production and related workers, transport equipment operators and labourers"
-285,albarius,1,Building,Petrikovits 1981a,9,,95,"worker in stucco, a plasterer","Production and related workers, transport equipment operators and labourers"
-286,veterarius,1,Miscellaneous Services,Petrikovits 1981a,9,,99,fixer of old things,"Production and related workers, transport equipment operators and labourers"
-287,refector pectinarius,1,Household Goods,Petrikovits 1981a,8,,81,"a restorer, repairer of combs","Production and related workers, transport equipment operators and labourers"
-288,loricarius,1,Miscellaneous Services,Petrikovits 1981a,8,Military,83,"maker of lorica, cuirass","Production and related workers, transport equipment operators and labourers"
-289,exactor auri argenti et aeris,1,Finance,Petrikovits 1981a,3,,31,"overseer of gold and silver money production,a collector of taxes, a tax gatherer",Clerical and related workers
-290,aromatarius,1,Retail,Waltzing - Rome,4,,43,"seller of perfumes, spices",Sales workers
-291,subrutor,1,Building,Waltzing - Rome,9,,99,demolisher,"Production and related workers, transport equipment operators and labourers"
-292,falancarius,1,Transport,Waltzing - Rome,9,Land transport,97,one who carries burdens with the aid of a long pole,"Production and related workers, transport equipment operators and labourers"
-293,similaginarius,1,Food-Production,Petrikovits 1981a,5,,53,wheat bread baker,Service workers
-294,librator,1,Miscellaneous Services,Petrikovits 1981a,0,,2,"a leveller, esp. by means of a water-level, a surveyor","Professional, technical and related workers"
-295,cellararius,1,Household Goods,Petrikovits 1981a,5,,55,"one who keeps provisions, a steward, butler",Service workers
-296,vitriarius,1,Glass-Working,Petrikovits 1981a,8,,89,glass manufacturer,"Production and related workers, transport equipment operators and labourers"
-297,cerdo,1,Miscellaneous Services,Petrikovits 1981a,9,,94,a handicraftsman,"Production and related workers, transport equipment operators and labourers"
-298,parietarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
-299,textrix,1,Clothing,Petrikovits 1981a,7,,75,female weaver,"Production and related workers, transport equipment operators and labourers"
-300,palangarius,1,Food-Retail,Waltzing - Rome,5,,53,wine bearer,Service workers
-301,subaedanus,1,Miscellaneous Services,Petrikovits 1981b,5,,54,worker inside the house,Service workers
-302,eburarius,1,Miscellaneous Services,Petrikovits 1981a,8,,88,a worker in ivory,"Production and related workers, transport equipment operators and labourers"
-303,monetarius,1,Finance,Waltzing - Rome,3,,31,a master of the mint,Clerical and related workers
-304,tubarius,1,Miscellaneous Services,Petrikovits 1981a,8,Military,83,"a trumpet, war-trumpet maker and distributor","Production and related workers, transport equipment operators and labourers"
-305,abietarius,1,Building,Petrikovits 1981a,8,Wood worker,81,"a joiner, wood worker","Production and related workers, transport equipment operators and labourers"
-306,calcariensis,1,Building,Waltzing - Rome,7,Stone worker,74,a limeburner,"Production and related workers, transport equipment operators and labourers"
-307,calcarensis,1,Building,Petrikovits 1981a,7,Stone worker,74,a limeburner,"Production and related workers, transport equipment operators and labourers"
-308,furnarius,1,Food-Production,Petrikovits 1981a,5,,53,"baker, stove builder",Service workers
-309,chartarius,1,Miscellaneous Services,Petrikovits 1981a,9,,91,papyrus maker,"Production and related workers, transport equipment operators and labourers"
-310,clostrarius,1,Household Goods,Petrikovits 1981a,8,,83,lock maker and seller,"Production and related workers, transport equipment operators and labourers"
-311,conditarius,1,Food-Production,Petrikovits 1981a,5,,53,"fine cook, foor preparer",Service workers
-312,confectorarius,1,Food-Production,Waltzing - Rome,5,,53,a butcher,Service workers
-313,automatarius,1,Miscellaneous Services,Petrikovits 1981a,9,,99,a maker of automata,"Production and related workers, transport equipment operators and labourers"
-314,ferrius,1,Metal-Working,Petrikovits 1981a,8,,83,worker with iron,"Production and related workers, transport equipment operators and labourers"
-315,oculariarius,1,Plastic Arts,Petrikovits 1981a,1,,16,"artisan, glass eye maker for statues","Professional, technical and related workers"
-316,florentinarius,1,Unclear meaning,Petrikovits 1981a,,,,uncertain,
-317,glutinarius,1,Miscellaneous Services,Petrikovits 1981a,7,,74,"glue boiler, glue maker","Production and related workers, transport equipment operators and labourers"
-318,holitor,1,Food-Production,Petrikovits 1981a,6,,63,"gardener, vegetable gardener","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
-319,inundatoris,1,Unclear meaning,Waltzing - Rome,,,,unclear,
-320,coactiliarius,1,Clothing,Petrikovits 1981a,7,,75,felt maker,"Production and related workers, transport equipment operators and labourers"
-321,musivarius,1,Unclear meaning,Petrikovits 1981a,,,,unclear,
-322,salsamentarius,1,Food-Retail,Petrikovits 1981a,4,,45,a dealer in salted fish,Sales workers
-323,officinatrix,1,Miscellaneous Services,Petrikovits 1981a,5,,51,"female one who keeps a workshop, a master-workman, an artificer, artist",Service workers
-324,pastillarius,1,Food-Production,Petrikovits 1981a,5,,53,a maker of pastils,Service workers
-325,quadrigularius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
-326,plutiarius,1,Building,Petrikovits 1981a,9,,95,a maker of balustrades,"Production and related workers, transport equipment operators and labourers"
-327,promus,1,Miscellaneous Services,Petrikovits 1981a,5,,53,"a cellarer, steward, butler",Service workers
-328,signarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a sculptor,"Professional, technical and related workers"
-329,tibiarius,1,Transport,Petrikovits 1981a,9,Maritime/water transport,95,"fleet manufacturer, ship maker","Production and related workers, transport equipment operators and labourers"
-330,acuclarius,1,Metal-Working,Petrikovits 1981a,8,,83,manufacturer or seller of needles,"Production and related workers, transport equipment operators and labourers"
-331,lanifica,1,Clothing,Petrikovits 1981b,7,,75,female wool-spinner,"Production and related workers, transport equipment operators and labourers"
-332,vitrarius,1,Glass-Working,Petrikovits 1981b,8,,89,glass manufacturer,"Production and related workers, transport equipment operators and labourers"
-333,tractator,1,Miscellaneous Services,Petrikovits 1981a,0,,6,"A slave among the Romans, who manipulated and suppled his master's limbs while anointing them; a shampooer","Professional, technical and related workers"
-334,cullearius,1,Household Goods,Petrikovits 1981a,8,,80,"maker of a leather bag, sack for liquids","Production and related workers, transport equipment operators and labourers"
-335,peponarius,1,Food-Retail,Waltzing - Rome,4,,45,melon seller,Sales workers
-336,liticinus,1,Performing Arts,Waltzing - Rome,1,,17,a player on the clarion,"Professional, technical and related workers"
-337,coactarius,1,Clothing,Petrikovits 1981a,7,,75,felt maker,"Production and related workers, transport equipment operators and labourers"
-338,lintearius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,"a boatman, waterman","Production and related workers, transport equipment operators and labourers"
-339,caudicarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,those who sail on such ships (esp. those who brought the corn from Ostia to Rome),"Production and related workers, transport equipment operators and labourers"
-340,furnaria,1,Food-Production,Petrikovits 1981a,5,,53,"female baker, stove builder",Service workers
-341,ballistarius,1,Miscellaneous Services,Petrikovits 1981a,0,Military,2,"manufacturer of ballistae, an engine for hurling","Professional, technical and related workers"
-342,pincerna,1,Miscellaneous Services,Petrikovits 1981a,5,,53,cupbearer,Service workers
-343,scamillarius,1,Miscellaneous Services,Waltzing - provinces,9,,99,"player of a footstool, cricket","Production and related workers, transport equipment operators and labourers"
-344,lotor,1,Clothing,Petrikovits 1981a,7,,75,a clothes-washer,"Production and related workers, transport equipment operators and labourers"
-345,excusor,1,Metal-Working,Petrikovits 1981a,8,,83,blacksmith,"Production and related workers, transport equipment operators and labourers"
-346,pectinator,1,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
+131,essedarius,4,Miscellaneous Services,Petrikovits 1981a,5,Military,58,a fighter in a war-chariot,Service workers
+132,pecuarius,4,Food-Production,Waltzing - Rome,6,,62,"sheep, cattle breader","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+133,pausarius,4,Finance,Waltzing - Rome,3,,33,"A money-changer, banker",Clerical and related workers
+134,urinator,4,Food-Production,Waltzing - Rome,6,,64,a fisherman,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+135,scalptor,4,Plastic Arts,Petrikovits 1981a,1,,16,"a cutter, graver in metal or stone","Professional, technical and related workers"
+136,opifex,4,Building,Waltzing - provinces,0,,2,"a worker, workman, mechanic, artisan","Professional, technical and related workers"
+137,mulionus,4,Transport,Waltzing - provinces,9,Land transport,98,of a mule-driver,"Production and related workers, transport equipment operators and labourers"
+138,candidator,4,Clothing,Petrikovits 1981a,7,,79,"uncertain, textile washer","Production and related workers, transport equipment operators and labourers"
+139,specularius,4,Glass-Working,Waltzing - Rome,8,,89,"a mirror-maker, window glass maker","Production and related workers, transport equipment operators and labourers"
+140,dolabrarius,4,Metal-Working,Waltzing - provinces,8,,83,a pickaxe-maker,"Production and related workers, transport equipment operators and labourers"
+141,caupo,4,Retail,Petrikovits 1981a,4,,43,"a petty tradesman, huckster, innkeeper",Sales workers
+142,sacomarius,4,Miscellaneous Services,Petrikovits 1981a,8,,83,one who makes counterpoises or weights ,"Production and related workers, transport equipment operators and labourers"
+143,apparator,4,Miscellaneous Services,Waltzing - Rome,9,,99,one that prepares,"Production and related workers, transport equipment operators and labourers"
+144,stuppator,4,Building,Petrikovits 1981a,8,Wood worker,81,"caulker, joiner","Production and related workers, transport equipment operators and labourers"
+145,negotiator sagarius,4,Retail,EDH/EDCS,4,,43,mantle trader,Sales workers
+146,figulus,3,Household Goods,Waltzing - Rome,8,,89,a potter,"Production and related workers, transport equipment operators and labourers"
+147,agricola,3,Food-Production,Petra's addition,6,,62,"a husbandman, agriculturist, ploughman, farmer, peasant","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+148,sartor,3,Miscellaneous Services,Petrikovits 1981a,6,,61,"A hoer, weeder, cultivator","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+149,lintiarius,3,Clothing,Waltzing - provinces,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
+150,offector,3,Clothing,Petrikovits 1981a,7,Colour production,75,dyer,"Production and related workers, transport equipment operators and labourers"
+151,caelator,3,Plastic Arts,Petrikovits 1981a,1,,16,"relief maker, carver","Professional, technical and related workers"
+152,factor,3,Food-Production,Petrikovits 1981a,6,,61,an oil-presser,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+153,tegularius,3,Building,Petrikovits 1981a,9,,95,"a tile, roof-tile maker","Production and related workers, transport equipment operators and labourers"
+154,infector,3,Clothing,Petrikovits 1981a,7,Colour production,75,a dyer,"Production and related workers, transport equipment operators and labourers"
+155,negotiator salarius,3,Retail,EDH/EDCS,4,,43,salt trader,Sales workers
+156,fontanus,3,Water-Management,Waltzing - provinces,9,,95,"of a spring, from a fountain, spring, worker?","Production and related workers, transport equipment operators and labourers"
+157,spatharius,3,Metal-Working,Petrikovits 1981a,8,,83,"a broad sword with a double edge, sabre maker","Production and related workers, transport equipment operators and labourers"
+158,athleta,3,Performing Arts,Waltzing - provinces,1,,17,"a wrestler, athlete, combatant in public games","Professional, technical and related workers"
+159,manticularius,3,Clothing,Waltzing - provinces,7,,79,"manufacturer of a small wallet, purse, pouch","Production and related workers, transport equipment operators and labourers"
+160,clavarius,3,Metal-Working,Petrikovits 1981a,8,,83,nail maker,"Production and related workers, transport equipment operators and labourers"
+161,nauclerus,3,Transport,Waltzing - provinces,0,Maritime/water transport,4,"a shipowner, a ship-master, skipper","Professional, technical and related workers"
+162,subaedianus,3,Building,Waltzing - Rome,9,Wood worker,95,carpenter ?,"Production and related workers, transport equipment operators and labourers"
+163,cuparius,3,Metal-Working,Waltzing - provinces,8,,83,a cooper,"Production and related workers, transport equipment operators and labourers"
+164,vinariarius,3,Food-Retail,Waltzing - Rome,4,,43,a wine - dealer,Sales workers
+165,archimagirus,3,Food-Production,Petrikovits 1981a,5,,53,chef,Service workers
+166,suarius,3,Food-Production,Waltzing - Rome,6,,62,pig breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+167,sculptor,3,Plastic Arts,Petrikovits 1981a,1,,16,"one who cuts, carves, or engraves in stone, wood","Professional, technical and related workers"
+168,capulator,3,Miscellaneous Services,Waltzing - Rome,5,,53,decanter,Service workers
+169,caplator,3,Transport,Waltzing - provinces,9,,97,oil transporter,"Production and related workers, transport equipment operators and labourers"
+170,faber intestinarius,3,Building,EDH/EDCS,9,,95,"joiner, wood worker","Production and related workers, transport equipment operators and labourers"
+171,scapharius,3,Transport,Waltzing - Rome,0,Maritime/water transport,4,owner of a small boat,"Professional, technical and related workers"
+172,unctrix,3,Miscellaneous Services,Petrikovits 1981a,5,,57,female perfume or ointment maker,Service workers
+173,paenularius,3,Clothing,Petrikovits 1981a,7,,79,cloak or mantle maker and seller,"Production and related workers, transport equipment operators and labourers"
+174,machinarius,3,Building,Petrikovits 1981a,9,,95,"a machinist, machine-builder,","Production and related workers, transport equipment operators and labourers"
+175,vestiplicus,3,Clothing,Petrikovits 1981a,7,,79,a clothes-folder,"Production and related workers, transport equipment operators and labourers"
+176,vestificus,3,Clothing,Petrikovits 1981a,7,,79,tailor,"Production and related workers, transport equipment operators and labourers"
+177,politor,3,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
+178,sector,2,Building,Waltzing - Rome,8,,82,"one who cuts, a cutter","Production and related workers, transport equipment operators and labourers"
+179,negotiator ferrarius,2,Retail,EDH/EDCS,4,,43,metal trader,Sales workers
+180,carminator,2,Clothing,Petrikovits 1981a,7,,75,"a carder, practitioner of carding, a method of preparing wool for use as a textile","Production and related workers, transport equipment operators and labourers"
+181,mesor,2,Miscellaneous Services,Petrikovits 1981a,0,,2,"a measurer, surveyor","Professional, technical and related workers"
+182,utriclarius,2,Transport,Waltzing - provinces,0,Maritime/water transport,4,"a bagpiper, The master of a raft floated on bladders, used for ferriage","Professional, technical and related workers"
+183,faber subaedianus,2,Unclassified,Ghent Database Roman Guilds,,,,unspecified house worker,
+184,canalicularius,2,Water-Management,Petrikovits 1981a,9,,95,"canal constructor, specialized worker","Production and related workers, transport equipment operators and labourers"
+185,arenarius,2,Performing Arts,Waltzing - provinces,1,,17,"harenarius, combatant in the amphitheatre, a gladiator","Professional, technical and related workers"
+186,intestinus,2,Building,Petrikovits 1981a,8,Wood worker,82,woodworker,"Production and related workers, transport equipment operators and labourers"
+187,fabriciensis,2,Metal-Working,Petrikovits 1981a,8,,83,an armorer,"Production and related workers, transport equipment operators and labourers"
+188,fabricensis,2,Metal-Working,Waltzing - provinces,8,,83,an armorer,"Production and related workers, transport equipment operators and labourers"
+189,cervesarius,2,Food-Production,Petrikovits 1981a,5,,53,"beermaker, brewer",Service workers
+190,operarius,2,Miscellaneous Services,Petrikovits 1981a,9,,94,"a laborer, workman, operative","Production and related workers, transport equipment operators and labourers"
+191,legulus,2,Food-Production,Petrikovits 1981a,6,,61,"a gatherer, collector; esp. one who picked up the fallen olives","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+192,negotians materiarius,2,Retail,EDH/EDCS,4,,45,trader of timber,Sales workers
+193,gypsarius,2,Building,Petrikovits 1981a,9,,95,plaster worker,"Production and related workers, transport equipment operators and labourers"
+194,negotiator frumentarius,2,Retail,EDH/EDCS,4,,43,trader with corn,Sales workers
+195,cretarius,2,Retail,EDH/EDCS,4,,43,"a shop for Cretan earth, pottery, pottery maker",Sales workers
+196,negotiator vestiarius,2,Retail,EDH/EDCS,4,,43,clothes trader,Sales workers
+197,naupegus,2,Transport,Petrikovits 1981a,9,Maritime/water transport,95,"a shipbuilder, shipwright, ship-carpenter","Production and related workers, transport equipment operators and labourers"
+198,propola,2,Retail,Waltzing - provinces,4,,45,"a forestaller, retailer, huckster",Sales workers
+199,pectenarius,2,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
+200,gisiarius,2,Transport,Waltzing - provinces,9,Land transport,95,The maker / driver of a cabriolet,"Production and related workers, transport equipment operators and labourers"
+201,coriarius,2,Clothing,Waltzing - provinces,7,,76,"a tanner, currier","Production and related workers, transport equipment operators and labourers"
+202,annonarius,2,Managerial,Waltzing - provinces,3,,30,of or pertaining to provisions,Clerical and related workers
+203,pollio,2,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
+204,statuarius,2,Plastic Arts,Petrikovits 1981a,1,,16,"a maker of statues, a statuary ","Professional, technical and related workers"
+205,speculariarius,2,Glass-Working,Petrikovits 1981a,8,,89,"a mirror-maker, window glass maker","Production and related workers, transport equipment operators and labourers"
+206,vector,2,Transport,Waltzing - Rome,9,Land transport,97,"one who bears, a bearer, carrier","Production and related workers, transport equipment operators and labourers"
+207,negotiator artis vestiariae,2,Retail,EDH/EDCS,4,,43,trader with textiles,Sales workers
+208,vestitor,2,Clothing,Petrikovits 1981a,7,,79,tailor,"Production and related workers, transport equipment operators and labourers"
+209,macellarius,2,Food-Production,Waltzing - provinces,7,,77,butcher,"Production and related workers, transport equipment operators and labourers"
+210,professor,2,Education,Waltzing - provinces,1,,13,a public teacher,"Professional, technical and related workers"
+211,salinator,2,Food-Retail,Waltzing - provinces,4,,45,a dealer in salt,Sales workers
+212,molendarius,2,Food-Production,Waltzing - Rome,6,,61,miller,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+213,restio,2,Retail,Waltzing - Rome,4,,43,"A ropemaker, rope-seller",Sales workers
+214,lanipendia,2,Clothing,Petrikovits 1981b,7,,75,one who weighs out wool,"Production and related workers, transport equipment operators and labourers"
+215,linarius,2,Clothing,Waltzing - provinces,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
+216,confector,2,Miscellaneous Services,Petrikovits 1981a,7,,76,"an accomplisher, finisher, a tanner","Production and related workers, transport equipment operators and labourers"
+217,custodiarius,2,Miscellaneous Services,Waltzing - Rome,5,,58,a jailer,Service workers
+218,lintio,2,Clothing,Petrikovits 1981a,7,,75,"a linen-weaver, dealer in linen","Production and related workers, transport equipment operators and labourers"
+219,ratiarius,2,Transport,Waltzing - provinces,9,Maritime/water transport,98,"a raftsman, lighterman","Production and related workers, transport equipment operators and labourers"
+220,tignor,2,Building,Petrikovits 1981a,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
+221,cultrarius,2,Metal-Working,Petrikovits 1981a,8,,83,"knife maker, cutler","Production and related workers, transport equipment operators and labourers"
+222,negotiator sericarius,2,Retail,EDH/EDCS,4,,43,silk trader,Sales workers
+223,dominus navium,2,Transport,Waltzing - Rome,0,Maritime/water transport,4,shipmaster,"Professional, technical and related workers"
+224,mimus,2,Performing Arts,Waltzing - Rome,1,,17,mime,"Professional, technical and related workers"
+225,pellio,2,Clothing,Petrikovits 1981a,7,,76,"one that prepares skins, a furrier","Production and related workers, transport equipment operators and labourers"
+226,libarius,2,Food-Production,Petrikovits 1981a,5,,53,"a pastry-cook, confectioner",Service workers
+227,gemmarius,2,Plastic Arts,Petrikovits 1981a,1,,16,"gem maker, carver","Professional, technical and related workers"
+228,cisiarius,2,Transport,Waltzing - Rome,9,Land transport,95,The maker / driver of a cabriolet,"Production and related workers, transport equipment operators and labourers"
+229,siricarius,2,Clothing,Petrikovits 1981a,7,,75,silk producer and dealer,"Production and related workers, transport equipment operators and labourers"
+230,tonstrix,2,Miscellaneous Services,Petrikovits 1981a,5,,55,female hairdresser and shearers,Service workers
+231,sarcinator,2,Clothing,Petrikovits 1981a,7,,79,"a patcher, botcher, mender of old garments","Production and related workers, transport equipment operators and labourers"
+232,suppostor,2,Finance,Petrikovits 1981a,3,,31,coin maker,Clerical and related workers
+233,signator,2,Finance,Petrikovits 1981a,3,,39,"one who stamps money, a coiner",Clerical and related workers
+234,inaurator,2,Metal-Working,Waltzing - Rome,8,,88,a gilder,"Production and related workers, transport equipment operators and labourers"
+235,boarius,2,Food-Production,Waltzing - Rome,6,,62,cattle breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+236,solatarius,2,Clothing,Petrikovits 1981a,8,Shoe maker,80,shoe maker,"Production and related workers, transport equipment operators and labourers"
+237,panarius,2,Food-Retail,Petrikovits 1981a,4,,45,a bread-seller,Sales workers
+238,fidicinus,2,Performing Arts,Waltzing - Rome,1,,17,lute player,"Professional, technical and related workers"
+239,calciator,2,Clothing,Petrikovits 1981a,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
+240,tostrix,2,Miscellaneous Services,Petrikovits 1981a,5,,57,female hairdresser and shearers,Service workers
+241,faber lectarius,2,Household Goods,EDH/EDCS,8,,81,couch maker,"Production and related workers, transport equipment operators and labourers"
+242,flaturarius,2,Metal-Working,Petrikovits 1981a,8,,83,a caster,"Production and related workers, transport equipment operators and labourers"
+243,faenarius,2,Finance,Waltzing - Rome,3,,39,one who lends money on interest,Clerical and related workers
+244,tabernacularius,2,Miscellaneous Services,Petrikovits 1981a,7,,79,tent maker,"Production and related workers, transport equipment operators and labourers"
+245,axearius,2,Building,Petrikovits 1981a,8,,82,"uncertain, board-cutter","Production and related workers, transport equipment operators and labourers"
+246,eborarius,2,Miscellaneous Services,Waltzing - Rome,8,,88,a worker in ivory,"Production and related workers, transport equipment operators and labourers"
+247,barbaricarius,2,Clothing,Petrikovist 1981b,7,,75,textile worker,"Production and related workers, transport equipment operators and labourers"
+248,salsarius,2,Food-Production,EDH/EDCS,6,,61,"salt-worker, uncertain","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+249,scalarius,2,Building,Petrikovits 1981a,9,,95,"step maker, ladder maker","Production and related workers, transport equipment operators and labourers"
+250,faber anularius,1,Metal-Working,EDH/EDCS,8,,88,signet-ring maker,"Production and related workers, transport equipment operators and labourers"
+251,dolator,1,Building,Petrikovits 1981a,9,,95,worker with an axe,"Production and related workers, transport equipment operators and labourers"
+252,pectinarius,1,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
+253,caementarius,1,Building,Petrikovits 1981a,9,Stone worker,95,mason,"Production and related workers, transport equipment operators and labourers"
+254,soliarius,1,Clothing,Petrikovits 1981a,8,Shoe maker,80,shoe maker,"Production and related workers, transport equipment operators and labourers"
+255,subidianus,1,Building,Waltzing - provinces,9,Wood worker,95,carpenter ?,"Production and related workers, transport equipment operators and labourers"
+256,anaglyptarius,1,Plastic Arts,Petrikovits 1981a,1,,16,"relief maker, carver","Professional, technical and related workers"
+257,lanificus,1,Clothing,Petrikovits 1981a,7,,75,a wool-spinner,"Production and related workers, transport equipment operators and labourers"
+258,lapicida,1,Building,Petrikovits 1981a,7,Stone worker,71,"a quarryman, stone-cutter","Production and related workers, transport equipment operators and labourers"
+259,negotiator allecarius,1,Retail,EDH/EDCS,4,,43,trader with fish-sauce,Sales workers
+260,faber dolabrarius,1,Metal-Working,Waltzing - Rome,8,,83,axe maker,"Production and related workers, transport equipment operators and labourers"
+261,negotiator cervesarius,1,Retail,EDH/EDCS,4,,43,beer trader ?,Sales workers
+262,faber ferrarius,1,Metal-Working,Waltzing - Rome,8,,83,blacksmith,"Production and related workers, transport equipment operators and labourers"
+263,scultor,1,Plastic Arts,Petrikovits 1981a,1,,16,"one who cuts, carves, or engraves in stone, wood","Professional, technical and related workers"
+264,olarius,1,Household Goods,Petrikovits 1981a,8,,89,potter,"Production and related workers, transport equipment operators and labourers"
+265,negotiator lanarius,1,Retail,EDH/EDCS,4,,43,wool trader,Sales workers
+266,conquiliarius,1,Clothing,Petrikovits 1981a,7,Colour production,75,a collector of purpur shell-fish,"Production and related workers, transport equipment operators and labourers"
+267,calegarius,1,Clothing,Petrikovits 1981a,8,Shoe maker,80,a shoemaker,"Production and related workers, transport equipment operators and labourers"
+268,pistur,1,Food-Production,Petrikovits 1981a,6,,61,"one who pounds corn in a mortar or grinds it in a hand-mill, a miller, a baker","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+269,moritex,1,Unclassified,Petrikovits 1981a,,,,unclear,
+270,focarius,1,Food-Production,Waltzing - provinces,5,,53,"a kitchen-boy; a kitchen-maid, cook",Service workers
+271,negotiator nummularius,1,Retail,EDH/EDCS,4,,43,"money trader, money distributor, banker",Sales workers
+272,negotiator seplasiario,1,Retail,EDH/EDCS,4,,43,"unguent from Capua, perfume trader",Sales workers
+273,negotiator paenularius,1,Retail,EDH/EDCS,4,,43,mantle trader,Sales workers
+274,negotiator salsari leguminari,1,Retail,EDH/EDCS,4,,43,salted vegetables trader,Sales workers
+275,faber lapidarius,1,Building,EDH/EDCS,7,,71,"stone worker, letter cutter","Production and related workers, transport equipment operators and labourers"
+276,conflator,1,Metal-Working,Petrikovits 1981a,8,,83,a metal-caster,"Production and related workers, transport equipment operators and labourers"
+277,vasclarius,1,Metal-Working,Petrikovits 1981a,8,,88,"a worker in metals, whitesmith, goldsmith","Production and related workers, transport equipment operators and labourers"
+278,carbonarus,1,Fuel / Raw material,Petrikovits 1981a,7,,71,"coal handler, worker, miner","Production and related workers, transport equipment operators and labourers"
+279,imaginarius,1,Plastic Arts,Petrikovits 1981a,1,,16,painter,"Professional, technical and related workers"
+280,anabolicarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,one day sailor,"Production and related workers, transport equipment operators and labourers"
+281,machinator,1,Miscellaneous Services,Petrikovits 1981a,0,,2,"a maker of machines, a machinist, an engineer, architect","Professional, technical and related workers"
+282,polio,1,Miscellaneous Services,Petrikovits 1981a,5,,56,"a cultivator, improver, a polisher",Service workers
+283,artefex,1,Plastic Arts,Petrikovits 1981a,1,,16,"One that is master in the liberal arts,an artist, artificer","Professional, technical and related workers"
+284,tubularius,1,Water-Management,Petrikovits 1981a,8,,87,pipe maker,"Production and related workers, transport equipment operators and labourers"
+285,camararius,1,Building,Petrikovits 1981a,9,,95,vault building worker,"Production and related workers, transport equipment operators and labourers"
+286,lanionus,1,Food-Production,Waltzing - provinces,7,,77,of or belonging to a butcher,"Production and related workers, transport equipment operators and labourers"
+287,clibanarius,1,Food-Production,Waltzing - provinces,5,,53,"a soldier clad in mail, a cuirassier, baker",Service workers
+288,decanus,1,Managerial,Waltzing - Rome,2,,22,"A chief of ten, one set over ten persons",Administrative and managerial workers
+289,negotiator artis purpurariae,1,Retail,EDH/EDCS,4,,43,trader with textile purple dyed products,Sales workers
+290,molinarius,1,Food-Production,Petrikovits 1981a,6,,61,miller,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+291,aurufex,1,Metal-Working,Petrikovits 1981a,8,,88,"goldworker, goldsmith","Production and related workers, transport equipment operators and labourers"
+292,ephippiarius,1,Transport,Petrikovits 1981a,8,Land transport,80,saddler,"Production and related workers, transport equipment operators and labourers"
+293,lupinarius,1,Food-Retail,Waltzing - Rome,4,,43,dealers in lupines,Sales workers
+294,negotiator gladiarius,1,Retail,EDH/EDCS,4,,43,trader with swords,Sales workers
+295,harenarius,1,Performing Arts,Waltzing - provinces,1,,17,"A combatant in the amphitheatre, a gladiator or A teacher of the elements of arithmetic","Professional, technical and related workers"
+296,laniarius,1,Food-Production,Petrikovits 1981a,5,,53,a butcher,Service workers
+297,lanio,1,Food-Production,Petrikovits 1981a,7,,77,a butcher,"Production and related workers, transport equipment operators and labourers"
+298,rosarius,1,Retail,Waltzing - Rome,4,,43,seller of roses,Sales workers
+299,scaenarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
+300,cellio,1,Household Goods,Petrikovits 1981a,5,,55,"one who keeps provisions, a steward, butler",Service workers
+301,lotorus,1,Clothing,Waltzing - provinces,7,,75,"fuller, clening wool","Production and related workers, transport equipment operators and labourers"
+302,navigator,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,sailor,"Production and related workers, transport equipment operators and labourers"
+303,lanternarius,1,Household Goods,Petrikovits 1981a,8,,81,lamp maker,"Production and related workers, transport equipment operators and labourers"
+304,porcinarius,1,Food-Production,Waltzing - Rome,6,,62,pig breader,"Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+305,candidarius,1,Food-Production,Petrikovits 1981a,5,,53,a baker,Service workers
+306,saburrarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,97,one who carries ballast to ships,"Production and related workers, transport equipment operators and labourers"
+307,cisianus,1,Transport,Petrikovits 1981a,9,,95,"uncertain, the maker / driver of a cabriolet","Production and related workers, transport equipment operators and labourers"
+308,nauticarius,1,Transport,Waltzing - Rome,0,Maritime/water transport,4,a shipmaster,"Professional, technical and related workers"
+309,ollarius,1,Household Goods,Petrikovts 1981b,8,,89,potter,"Production and related workers, transport equipment operators and labourers"
+310,navigiarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,one who sails in a small vessel,"Production and related workers, transport equipment operators and labourers"
+311,lyntrarius,1,Transport,Waltzing - provinces,9,Maritime/water transport,95,raft-maker,"Production and related workers, transport equipment operators and labourers"
+312,albarius,1,Building,Petrikovits 1981a,9,,95,"worker in stucco, a plasterer","Production and related workers, transport equipment operators and labourers"
+313,veterarius,1,Miscellaneous Services,Petrikovits 1981a,9,,99,fixer of old things,"Production and related workers, transport equipment operators and labourers"
+314,negotiator vascularius,1,Retail,EDH/EDCS,4,,43,goldsmith and silver trader,Sales workers
+315,negotiator iuvencario,1,Retail,EDH/EDCS,4,,43,young cattle trader,Sales workers
+316,refector pectinarius,1,Household Goods,Petrikovits 1981a,8,,81,"a restorer, repairer of combs","Production and related workers, transport equipment operators and labourers"
+317,loricarius,1,Miscellaneous Services,Petrikovits 1981a,8,Military,83,"maker of lorica, cuirass","Production and related workers, transport equipment operators and labourers"
+318,tignuarius,1,Building,Petrikovits 1981a,9,Wood worker,95,carpenter,"Production and related workers, transport equipment operators and labourers"
+319,exactor auri argenti et aeris,1,Finance,Petrikovits 1981a,3,,31,"overseer of gold and silver money production,a collector of taxes, a tax gatherer",Clerical and related workers
+320,aromatarius,1,Retail,Waltzing - Rome,4,,43,"seller of perfumes, spices",Sales workers
+321,subrutor,1,Building,Waltzing - Rome,9,,99,demolisher,"Production and related workers, transport equipment operators and labourers"
+322,negotiator olearius,1,Retail,EDH/EDCS,4,,43,oil trader,Sales workers
+323,falancarius,1,Transport,Waltzing - Rome,9,Land transport,97,one who carries burdens with the aid of a long pole,"Production and related workers, transport equipment operators and labourers"
+324,similaginarius,1,Food-Production,Petrikovits 1981a,5,,53,wheat bread baker,Service workers
+325,librator,1,Miscellaneous Services,Petrikovits 1981a,0,,2,"a leveller, esp. by means of a water-level, a surveyor","Professional, technical and related workers"
+326,cellararius,1,Household Goods,Petrikovits 1981a,5,,55,"one who keeps provisions, a steward, butler",Service workers
+327,vitriarius,1,Glass-Working,Petrikovits 1981a,8,,89,glass manufacturer,"Production and related workers, transport equipment operators and labourers"
+328,cerdo,1,Miscellaneous Services,Petrikovits 1981a,9,,94,a handicraftsman,"Production and related workers, transport equipment operators and labourers"
+329,parietarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
+330,textrix,1,Clothing,Petrikovits 1981a,7,,75,female weaver,"Production and related workers, transport equipment operators and labourers"
+331,palangarius,1,Food-Retail,Waltzing - Rome,5,,53,wine bearer,Service workers
+332,subaedanus,1,Miscellaneous Services,Petrikovits 1981b,5,,54,worker inside the house,Service workers
+333,eburarius,1,Miscellaneous Services,Petrikovits 1981a,8,,88,a worker in ivory,"Production and related workers, transport equipment operators and labourers"
+334,lectarius,1,Household Goods,Petrikovits 1981a,8,,81,a couch-maker,"Production and related workers, transport equipment operators and labourers"
+335,monetarius,1,Finance,Waltzing - Rome,3,,31,a master of the mint,Clerical and related workers
+336,tubarius,1,Miscellaneous Services,Petrikovits 1981a,8,Military,83,"a trumpet, war-trumpet maker and distributor","Production and related workers, transport equipment operators and labourers"
+337,abietarius,1,Building,Petrikovits 1981a,8,Wood worker,81,"a joiner, wood worker","Production and related workers, transport equipment operators and labourers"
+338,calcariensis,1,Building,Waltzing - Rome,7,Stone worker,74,a limeburner,"Production and related workers, transport equipment operators and labourers"
+339,calcarensis,1,Building,Petrikovits 1981a,7,Stone worker,74,a limeburner,"Production and related workers, transport equipment operators and labourers"
+340,furnarius,1,Food-Production,Petrikovits 1981a,5,,53,"baker, stove builder",Service workers
+341,chartarius,1,Miscellaneous Services,Petrikovits 1981a,9,,91,papyrus maker,"Production and related workers, transport equipment operators and labourers"
+342,clostrarius,1,Household Goods,Petrikovits 1981a,8,,83,lock maker and seller,"Production and related workers, transport equipment operators and labourers"
+343,conditarius,1,Food-Production,Petrikovits 1981a,5,,53,"fine cook, foor preparer",Service workers
+344,confectorarius,1,Food-Production,Waltzing - Rome,5,,53,a butcher,Service workers
+345,automatarius,1,Miscellaneous Services,Petrikovits 1981a,9,,99,a maker of automata,"Production and related workers, transport equipment operators and labourers"
+346,ferrius,1,Metal-Working,Petrikovits 1981a,8,,83,worker with iron,"Production and related workers, transport equipment operators and labourers"
+347,oculariarius,1,Plastic Arts,Petrikovits 1981a,1,,16,"artisan, glass eye maker for statues","Professional, technical and related workers"
+348,intestinarius,1,Building,Petrikovits 1981a,8,Wood worker,82,woodworker,"Production and related workers, transport equipment operators and labourers"
+349,florentinarius,1,Unclassified,Petrikovits 1981a,,,,uncertain,
+350,glutinarius,1,Miscellaneous Services,Petrikovits 1981a,7,,74,"glue boiler, glue maker","Production and related workers, transport equipment operators and labourers"
+351,holitor,1,Food-Production,Petrikovits 1981a,6,,63,"gardener, vegetable gardener","Agricultural, animal husbandry and forestry workers, fishermen and hunters"
+352,inundatoris,1,Unclassified,Waltzing - Rome,,,,unclear,
+353,coactiliarius,1,Clothing,Petrikovits 1981a,7,,75,felt maker,"Production and related workers, transport equipment operators and labourers"
+354,musivarius,1,Unclassified,Petrikovits 1981a,,,,unclear,
+355,negotiator lintiarius,1,Retail,EDH/EDCS,4,,43,linen trader,Sales workers
+356,negotiator penoris et vinorum,1,Retail,EDH/EDCS,4,,43,wine trader,Sales workers
+357,salsamentarius,1,Food-Retail,Petrikovits 1981a,4,,45,a dealer in salted fish,Sales workers
+358,officinatrix,1,Miscellaneous Services,Petrikovits 1981a,5,,51,"female one who keeps a workshop, a master-workman, an artificer, artist",Service workers
+359,pastillarius,1,Food-Production,Petrikovits 1981a,5,,53,a maker of pastils,Service workers
+360,quadrigularius,1,Plastic Arts,Petrikovits 1981a,1,,16,a painter,"Professional, technical and related workers"
+361,plutiarius,1,Building,Petrikovits 1981a,9,,95,a maker of balustrades,"Production and related workers, transport equipment operators and labourers"
+362,promus,1,Miscellaneous Services,Petrikovits 1981a,5,,53,"a cellarer, steward, butler",Service workers
+363,signarius,1,Plastic Arts,Petrikovits 1981a,1,,16,a sculptor,"Professional, technical and related workers"
+364,tibiarius,1,Transport,Petrikovits 1981a,9,Maritime/water transport,95,"fleet manufacturer, ship maker","Production and related workers, transport equipment operators and labourers"
+365,acuclarius,1,Metal-Working,Petrikovits 1981a,8,,83,manufacturer or seller of needles,"Production and related workers, transport equipment operators and labourers"
+366,lanifica,1,Clothing,Petrikovits 1981b,7,,75,female wool-spinner,"Production and related workers, transport equipment operators and labourers"
+367,vitrarius,1,Glass-Working,Petrikovits 1981b,8,,89,glass manufacturer,"Production and related workers, transport equipment operators and labourers"
+368,tractator,1,Miscellaneous Services,Petrikovits 1981a,0,,6,"A slave among the Romans, who manipulated and suppled his master's limbs while anointing them; a shampooer","Professional, technical and related workers"
+369,cullearius,1,Household Goods,Petrikovits 1981a,8,,80,"maker of a leather bag, sack for liquids","Production and related workers, transport equipment operators and labourers"
+370,negotiator eborarius,1,Retail,EDH/EDCS,4,,43,ivory trader,Sales workers
+371,peponarius,1,Food-Retail,Waltzing - Rome,4,,45,melon seller,Sales workers
+372,liticinus,1,Performing Arts,Waltzing - Rome,1,,17,a player on the clarion,"Professional, technical and related workers"
+373,coactarius,1,Clothing,Petrikovits 1981a,7,,75,felt maker,"Production and related workers, transport equipment operators and labourers"
+374,lintearius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,"a boatman, waterman","Production and related workers, transport equipment operators and labourers"
+375,caudicarius,1,Transport,Waltzing - Rome,9,Maritime/water transport,98,those who sail on such ships (esp. those who brought the corn from Ostia to Rome),"Production and related workers, transport equipment operators and labourers"
+376,furnaria,1,Food-Production,Petrikovits 1981a,5,,53,"female baker, stove builder",Service workers
+377,carpentarius,1,Transport,Petrikovits 1981b,9,Land transport,95,a wheelwright,"Production and related workers, transport equipment operators and labourers"
+378,negotiator sagarius et pellicarius,1,Retail,EDH/EDCS,4,,43,mantle trader,Sales workers
+379,faber carpentarius,1,Transport,EDH/EDCS,9,Land transport,95,a wheelwright worker,"Production and related workers, transport equipment operators and labourers"
+380,ballistarius,1,Miscellaneous Services,Petrikovits 1981a,0,Military,2,"manufacturer of ballistae, an engine for hurling","Professional, technical and related workers"
+381,pincerna,1,Miscellaneous Services,Petrikovits 1981a,5,,53,cupbearer,Service workers
+382,scamillarius,1,Miscellaneous Services,Waltzing - provinces,9,,99,"player of a footstool, cricket","Production and related workers, transport equipment operators and labourers"
+383,lotor,1,Clothing,Petrikovits 1981a,7,,75,a clothes-washer,"Production and related workers, transport equipment operators and labourers"
+384,excusor,1,Metal-Working,Petrikovits 1981a,8,,83,blacksmith,"Production and related workers, transport equipment operators and labourers"
+385,negotiator margaritarius,1,Retail,EDH/EDCS,4,,43,pearl trader,Sales workers
+386,pectinator,1,Household Goods,Petrikovits 1981a,8,,81,a combmaker,"Production and related workers, transport equipment operators and labourers"
