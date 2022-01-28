@@ -1,5 +1,5 @@
 ,measurement,context,mean,std,min,25%,50%,75%,max
-0,"occups. per 1,000 ins.",large city,49.98,9.53,25,43,49,56,92
-1,"occups. per 1,000 ins.",medium city,35.91,8.08,15,30,35,41,71
-2,"occups. per 1,000 ins.",small city,39.48,7.63,13,34,40,44,71
-3,"occups. per 1,000 ins.",rural area,19.08,5.61,4,15,19,22,45
+0,"occups. per 1,000 ins.",large city,47.39,9.79,22,40,46,53,87
+1,"occups. per 1,000 ins.",medium city,37.65,8.39,19,32,37,42,78
+2,"occups. per 1,000 ins.",small city,45.8,7.87,26,40,45,51,76
+3,"occups. per 1,000 ins.",rural area,21.88,5.96,5,18,21,26,42
