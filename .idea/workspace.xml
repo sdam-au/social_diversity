@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a50fb6-e1f6-456a-aa4e-5b3dba187b68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/scripts/0_DECLINE-OCCUPATIONS&amp;ORGANIZATIONS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/1_URBAN-CONTEXTS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/3_OCCUPS&amp;ORGS_BY-CONTEXT.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/5b_OCCUPS&amp;ORGS_SPATIAL_by-nearest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/5c_OCCUPS&amp;ORGS_TEMPORAL_backup.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/6_OCCUPS-TIGHTNESS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/OCCUPS-NETWORKX.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/edhcs_to_lire.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/geoplot_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/json_json.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/records" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/sddk&amp;geojsons.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_durations.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_sync.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24T2WmM4zFDQLhPAMUTrcpG7dhT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
