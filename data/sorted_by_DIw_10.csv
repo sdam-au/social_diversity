@@ -1,11 +1,11 @@
-city,pop. est.,N inscriptions,N occupations,N occ. in largest sector,N sectors,DIw
-Mursa,7376,109,6,1,6,3.35
-Ateste,7790,128,6,1,6,3.35
-Siscia,3086,116,5,1,5,3.11
-Noviomagus (Germania Inferior),4837,103,5,1,5,3.11
-Carnuntum (2),9938,353,8,2,7,3.08
-Norba,5399,106,12,2,8,2.9
-Mantua,1000,27,2,1,2,2.89
-Augusta Auscorum,1000,73,2,1,2,2.89
-Heba,1422,14,2,1,2,2.89
-Laumellum,1000,14,2,1,2,2.89
+city,country,pop. est.,N inscriptions,N occupations,N occ. in largest sector,N sectors,DIw
+Spoletium,Italy,2760,141,7,1,7,3.6
+Ateste,Italy,7790,115,6,1,6,3.35
+Mursa,Croatia,7376,105,6,1,6,3.35
+Pisae,Italy,3937,40,13,3,10,3.14
+Siscia,Croatia,3086,112,5,1,5,3.11
+Astigi,Spain,13870,170,5,1,5,3.11
+Corfinium,Italy,1030,289,10,2,8,3.1
+Nepet,Italy,1157,25,2,1,2,2.89
+Lindum,United Kingdom,5976,48,2,1,2,2.89
+Luguvalium,United Kingdom,3590,144,2,1,2,2.89
