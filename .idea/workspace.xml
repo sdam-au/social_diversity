@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a50fb6-e1f6-456a-aa4e-5b3dba187b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/social_diversity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/social_diversity.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/DI_ZI_corr_matrix.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figures/DI_ZI_corr_matrix.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/DI_ZI_corr_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/DI_ZI_corr_matrix.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/unique_cats_per_cities_hist.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figures/unique_cats_per_cities_hist.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/roman_cities_wo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/roman_cities_wo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/roman_cities_wo.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/data/roman_cities_wo.parquet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/8_COMPARE-WITH-HANSON.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/8_COMPARE-WITH-HANSON.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/8_COMPARE-WITH-HANSON.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/supplementary-analyses/8_COMPARE-WITH-HANSON.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/supplementary-analyses" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
