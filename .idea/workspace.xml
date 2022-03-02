@@ -5,16 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a50fb6-e1f6-456a-aa4e-5b3dba187b68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/social_diversity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/social_diversity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/roman_cities_wo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/roman_cities_wo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/roman_cities_wo.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/data/roman_cities_wo.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corr_matrix_hanson_feb2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/4_OCCUPS&amp;ORGS_BY-CONTEXT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_OCCUPS&amp;ORGS_BY-CONTEXT.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/8_COMPARE-WITH-HANSON.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/supplementary-analyses/8_COMPARE-WITH-HANSON.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,14 +59,18 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kasev/Projects/paul/scripts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../paul/scripts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/scripts/supplementary-analyses" />
     </key>
