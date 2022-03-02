@@ -1,20 +1,15 @@
-# Measuring social development and diversity in ancient epigraphic production
-*ANALYSIS* - work in progress, contents of this repository is likely change on a daily basis
+# Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities
+
+This repository contains analyses associated with the article "Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities", currently under review (March 2022). It contains scripts, data and figures. The scripts are in Python 3 programming language and have form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code and data for their analyses.
 
 ---
 ## Authors
-* Vojtech Kase [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8736-7152), SDAM project, kase@cas.au.dk
+* Vojtech Kase [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6601-1605), SDAM project, kase@kfi.zcu.cz
 * Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra.hermankova@cas.au.dk
 * Adela Sobotkova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4541-3963), SDAM project, adela@cas.au.dk
 
 ## Abstract
-Social development is often measured through increasing social stratification and economic specialisation through time. According to Adam Smith (1776/2007), growing population size leads to greater specialisation of labour as well as the proliferation of social roles. However true for modern society, this theory has been applied to the ancient world only to a limited extent (Bowman and Wilson 2009; Hanson, Ortman, and Lobo 2017), mostly due to the problematic access to comparable and relevant longitudinal datasets.
-
-Inscriptions on permanent media have been produced by most communities of the ancient Meditteranean, providing a proxy for the population that created them. The texts of inscriptions mention not only the names of individuals, but also their occupation and craft and trade associations that we can locate in space and time. The number as well as the content of the inscriptions thus let us evaluate the relation between the degree of economic specialization and the estimated size of the urban population in ancient Mediterranean. 
-
-Given that Smith's law operates on the density of population, we will test its core assumptions by comparing the variation in social and economic differentiation expressed in epigraphic monuments between rural and urban areas and in time. The expectation is that the social diversity in inscriptions will increase with higher population density (closer toward urban centers). 
-
-This study contributes to the debate on the role of urbanism in ancient Mediterranean by using large-scale but highly granular data as proxies for economic and social development. The study aims to set an example by following FAIR data principles and best practices in reproducible open research.
+Recent empirical studies on the division of labor in modern cities indicate a complex web of relationships between sectoral specialization of cities and their productivity on the one hand and its sectoral diversification and resilience on the other. At the same time, an emerging scholarly consensus suggests that modern cities and cities of the past studied by historians and archeologists share a number of  features. Drawing on these debates, we explore to what extent are the observations on the division of labor in modern cities valid for the cities of the Western Roman Empire from the first century BCE to the fourth century CE. We introduce analyses based on occupational data extracted from a large body of Latin epigraphic evidence by computer-assisted text-mining, subsequently mapped onto an existing dataset of ancient Roman cities. The temporal dimension of epigraphic data allows us to study aspects of the division of labor diachronically and to detect trends in the data in a four centuries-long period of Roman imperial history. However, our results regarding the specialization and diversity of cities and their respective impact on productivity and resilience remain inconclusive, possibly as a result of the socio-economic bias of Latin inscriptions and insufficient representativeness of the data. Yet, we believe that our formalized approach to the research problem opens up new avenues for research, both in respect to the economic history of the Roman Empire and to the current trends in the science of cities.
 
 ---
 
@@ -41,33 +36,18 @@ CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob
 
 ### Getting Started
 
-After you clone the repository, install python virtual environment by going to terminal and running the following commands:
-```bash
-INTERPRETER="which python3" # or any other interpreter, e.g. $HOME/.local/lib/python-3.9.7/bin/python3
-virtualenv socdiv_venv --python=$INTERPRETER
+* download or clone the repository
+* create virtual environment following the instructions below
+* in the jupyter notebooks available in `/scripts` subdirectory, always check that you are connected to the `socdiv_venv` kernel
+* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required python packages within the `requirements.txt` file: `pip install -r requiremnts.txt`)
 
+To create the virtual environment, move into the repository directory in terminal and run the following commands: 
+```bash
+pip install virtualenv
+virtualenv socdiv_venv 
 socdiv_venv/bin/python -m pip install -r requirements.txt # install anything in requirements.txt
 socdiv_venv/bin/python -m ipykernel install --user --name=socdiv_venv
 
 ```
-Once you are done, open any jupyter notebook and check that you are connected to the `socdiv_venv` kernel.
-
-If you work on Apple M1 machine (as me), the installation of some packages (esp. `scipy` and `scikit-learn`) 
-might be tricky. I have finally found the solution in this thread: https://github.com/scikit-learn/scikit-learn/issues/19137
-
-```bash
-VENVNAME=socdiv_venv
-$VENVNAME/bin/python -m pip install --no-cache --no-use-pep517 pythran cython pybind11 gast"==0.4.0"
-$VENVNAME/bin/python -m pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
-$VENVNAME/bin/python -m pip install --no-use-pep517 scikit-learn"==1.0.0"
-```
-
-
-
-
-```
-
-
-
-
+If you have issues, check that you are within the right directory and that your `pip' is coupled with Python 3 (and not Python 2): `pip --version`
 
