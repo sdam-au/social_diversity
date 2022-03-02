@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a50fb6-e1f6-456a-aa4e-5b3dba187b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/social_diversity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/social_diversity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corr_matrix_hanson_feb2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.eps" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_harris_bar.tiff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/figures/occups_industrytypes_hisco_bar.tiff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/4_OCCUPS&amp;ORGS_BY-CONTEXT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_OCCUPS&amp;ORGS_BY-CONTEXT.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/7_DIVERSITYvsSPECIALIZATION.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
