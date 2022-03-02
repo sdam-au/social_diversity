@@ -49,5 +49,5 @@ socdiv_venv/bin/python -m pip install -r requirements.txt # install anything in
 socdiv_venv/bin/python -m ipykernel install --user --name=socdiv_venv
 
 ```
-If you have issues, check that you are within the right directory and that your `pip' is coupled with Python 3 (and not Python 2): `pip --version`
+If you have issues, check that you are within the right directory and that your `pip` is coupled with Python 3 (and not Python 2): `pip --version`
 
