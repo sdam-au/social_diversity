@@ -1,22 +1,23 @@
-# Associations in Latin inscriptions
+# Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities
 
-This repository contains scripts analysing associations in the Western Roman Empire. More details will follow.
+This repository contains analyses associated with the article "Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities", currently under review (March 2022). It contains scripts, data and figures. The scripts are in Python 3 programming language and have form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code and data for their analyses.
 
 ---
-## Authors (ordered alphabetically)
-* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra.hermankova@cas.au.dk
+## Authors
 * Vojtech Kase [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6601-1605), SDAM project, kase@kfi.zcu.cz
+* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra.hermankova@cas.au.dk
 * Adela Sobotkova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4541-3963), SDAM project, adela@cas.au.dk
 
 ## Abstract
-TBA
+Recent empirical studies on the division of labor in modern cities indicate a complex web of relationships between sectoral specialization of cities and their productivity on one hand and sectoral diversification and resilience on the other. Emerging scholarly consensus suggests that ancient urbanism has more in common with modern urban development than previously thought. We explore whether modern trends in urban division of labor apply to the cities of the Western Roman Empire from the first century BCE to the fourth century CE. We introduce analyses based on occupational data extracted from a large body of Latin epigraphic evidence by computer-assisted text-mining, subsequently mapped onto a dataset of ancient Roman cities. We detect a higher frequency of occupation terms on inscriptions from cities than from rural areas and identify an accumulation of tertiary sector occupations in large cities. The temporal dimension of epigraphic data allows us to study aspects of the division of labor diachronically and to detect trends in the data in a four centuries-long period of Roman imperial history. Our analyses reveal an overall decrease in the frequency of occupational terms between the first half and second half of the third century CE; the maximum frequency of occupational terms shifts over time from large cities to medium and small towns, and finally, rural areas. Our results regarding the specialization and diversity of cities and their respective impact on productivity and resilience remain inconclusive, possibly as a result of the socio-economic bias of Latin inscriptions and insufficient representativeness of the data. Yet, we believe that our formalized approach to the research problem opens up new avenues for research, both in respect to the economic history of the Roman Empire and to the current trends in the science of cities.
+
 ---
 
 ## License
 CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob/master/LICENSE.md)
 
 ## DOI
-TBA
+Preprint: https://osf.io/preprints/socarxiv/47frj/
 
 ---
 ## How to use this repository
