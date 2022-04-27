@@ -47,7 +47,7 @@ The LIRE dataset has been created aggregating the following datasets:
 * download or clone the repository
 * create virtual environment following the instructions below
 * in the jupyter notebooks available in `/scripts` subdirectory, always check that you are connected to the `socdiv_venv` kernel
-* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required python packages within the `requirements.txt` file: `pip install -r requiremnts.txt`)
+* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required python packages within the `requirements.txt` file: `pip install -r requirements.txt`)
 
 To create the virtual environment, move into the repository directory in terminal and run the following commands: 
 ```bash
