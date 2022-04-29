@@ -11,6 +11,8 @@ networkx
 gspread
 gspread_dataframe
 google-auth
+geoplot
+pyarrow
 
 sddk
 tempun
