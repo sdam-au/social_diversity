@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/social_diversity.iml" filepath="$PROJECT_DIR$/.idea/social_diversity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/social_diversity_repo.iml" filepath="$PROJECT_DIR$/.idea/social_diversity_repo.iml" />
     </modules>
   </component>
 </project>
