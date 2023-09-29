@@ -1,6 +1,6 @@
 # Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities
 
-This repository contains analyses associated with the article "Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities", currently under review (March 2022). It contains scripts, data and figures. The scripts are in Python 3 programming language and have form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code and data for their analyses.
+This repository contains analyses associated with the article "Division of Labor and Occupational Specialization and Diversification in the Ancient Roman Cities", published in June 2022. It contains scripts, data and figures. The scripts are in Python 3 programming language and have form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code and data for their analyses.
 
 ---
 ## Authors
@@ -9,7 +9,7 @@ This repository contains analyses associated with the article "Division of Labor
 * Adela Sobotkova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4541-3963), SDAM project, adela@cas.au.dk
 
 ## Abstract
-Recent empirical studies on the division of labor in modern cities indicate a complex web of relationships between sectoral specialization of cities and their productivity on one hand and sectoral diversification and resilience on the other. Emerging scholarly consensus suggests that ancient urbanism has more in common with modern urban development than previously thought. We explore whether modern trends in urban division of labor apply to the cities of the Western Roman Empire from the first century BCE to the fourth century CE. We introduce analyses based on occupational data extracted from a large body of Latin epigraphic evidence by computer-assisted text-mining, subsequently mapped onto a dataset of ancient Roman cities. We detect a higher frequency of occupation terms on inscriptions from cities than from rural areas and identify an accumulation of tertiary sector occupations in large cities. The temporal dimension of epigraphic data allows us to study aspects of the division of labor diachronically and to detect trends in the data in a four centuries-long period of Roman imperial history. Our analyses reveal an overall decrease in the frequency of occupational terms between the first half and second half of the third century CE; the maximum frequency of occupational terms shifts over time from large cities to medium and small towns, and finally, rural areas. Our results regarding the specialization and diversity of cities and their respective impact on productivity and resilience remain inconclusive, possibly as a result of the socio-economic bias of Latin inscriptions and insufficient representativeness of the data. Yet, we believe that our formalized approach to the research problem opens up new avenues for research, both in respect to the economic history of the Roman Empire and to the current trends in the science of cities.
+Recent empirical studies on the division of labor in modern cities indicate a complex web of relationships between the sectoral specialization of cities and their productivity on one hand and sectoral diversification and resilience on the other. Emerging scholarly consensus suggests that ancient urbanism has more in common with modern urban development than previously thought. We explore whether modern trends in urban division of labor apply to the cities of the Western Roman Empire from the first century BCE to the fourth century CE. We introduce analyses based on occupational data extracted from a large body of Latin epigraphic evidence by computer-assisted text-mining, subsequently mapped onto a dataset of ancient Roman cities. We detect a higher frequency of occupation terms on inscriptions from cities than from rural areas and identify an accumulation of tertiary sector occupations in large cities. The temporal dimension of epigraphic data allows us to study aspects of the division of labor diachronically and to detect trends in the data in a four centuries-long period of Roman imperial history. Our analyses reveal an overall decrease in the frequency of occupational terms between the first half and second half of the third century CE; the maximum frequency of occupational terms shifts over time from large cities to medium and small towns, and finally, rural areas. Our results regarding the specialization and diversity of cities and their respective impact on productivity and resilience remain inconclusive, possibly as a result of the socio-economic bias of Latin inscriptions and insufficient representativeness of the data. Yet, we believe that our formalized approach to the research problem opens up new avenues for research, both with respect to the economic history of the Roman Empire and to the current trends in the science of cities.
 
 ---
 
@@ -17,15 +17,20 @@ Recent empirical studies on the division of labor in modern cities indicate a co
 CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob/master/LICENSE.md)
 
 ## DOI
+
+[https://doi.org/10.1371/journal.pone.0269869](https://doi.org/10.1371/journal.pone.0269869)
+
 Preprint: https://osf.io/preprints/socarxiv/47frj/
+
+Published article: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269869
 
 ---
 ## How to use this repository
 
 ### Data
-Latin Inscriptions of the Roman Empire (LIRE) dataset created by series of scripts in [LIRE_ETL](https://github.com/sdam-au/LIRE_ETL) repository and published on Zenodo https://zenodo.org/record/5776109
+Latin Inscriptions of the Roman Empire (LIRE) dataset created by a series of scripts in [LIRE_ETL](https://github.com/sdam-au/LIRE_ETL) repository and published on Zenodo https://zenodo.org/record/5776109
 
-**The LIRE dataset** is an aggregate of EDH and EDCS epigraphic datasets, focusing on inscriptions which are (a) geolocated, (b) within the borders of the Roman Empire in its highest extent, (c) dated (d) in the dating interval intersecting the period from 50 BC to 350 AD. In version 1.2, the dataset consists of 136,190 records and 112 attributes. There are 48,801 inscriptions shared by the EDH and EDCS, inheriting attributes from both parent collections. Further, there are 3,907 inscriptions recorded exclusively in EDH and 83,482 inscriptions originating solely from EDCS. In cases in which an inscription is available only in one dataset, it contains attributes only from that one dataset. 
+**The LIRE dataset** is an aggregate of EDH and EDCS epigraphic datasets, focusing on inscriptions that are (a) geolocated, (b) within the borders of the Roman Empire in its highest extent, (c) dated (d) in the dating interval intersecting the period from 50 BC to 350 AD. In version 1.2, the dataset consists of 136,190 records and 112 attributes. There are 48,801 inscriptions shared by the EDH and EDCS, inheriting attributes from both parent collections. Further, there are 3,907 inscriptions recorded exclusively in EDH and 83,482 inscriptions originating solely from EDCS. In cases in which an inscription is available only in one dataset, it contains attributes only from that one dataset. 
 
 We publish the dataset as one geojson file. The scripts used to generate the dataset and their metadata are available via GitHub:  https://github.com/sdam-au/LIRE_ETL.
 
@@ -38,7 +43,7 @@ The LIRE dataset has been created aggregating the following datasets:
 
 ### Software
 * Python 3
-* Jupyter notebooks app/JupyterLab/JupyterHub
+* Jupyter Notebooks app/JupyterLab/JupyterHub
 * Python 3 additional libraries listed `requirements.txt`
 
 
@@ -47,9 +52,9 @@ The LIRE dataset has been created aggregating the following datasets:
 * download or clone the repository
 * create virtual environment following the instructions below
 * in the jupyter notebooks available in `/scripts` subdirectory, always check that you are connected to the `socdiv_venv` kernel
-* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required python packages within the `requirements.txt` file: `pip install -r requirements.txt`)
+* (alternatively, if you do not wish to use the virtual environment, make sure that you have installed all required Python packages within the `requirements.txt` file: `pip install -r requirements.txt`)
 
-To create the virtual environment, move into the repository directory in terminal and run the following commands: 
+To create the virtual environment, move into the repository directory in the terminal and run the following commands: 
 ```bash
 pip install virtualenv
 virtualenv socdiv_venv 
