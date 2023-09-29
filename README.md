@@ -16,13 +16,13 @@ Recent empirical studies on the division of labor in modern cities indicate a co
 ## License
 CC-BY-SA 4.0, see attached [License.md](https://github.com/sdam-au/EDCS_ETL/blob/master/LICENSE.md)
 
-## DOI
+## Cite us & DOI
 
-[https://doi.org/10.1371/journal.pone.0269869](https://doi.org/10.1371/journal.pone.0269869)
+`Kaše V, Heřmánková P, Sobotková A (2022) Division of labor, specialization and diversity in the ancient Roman cities: A quantitative approach to Latin epigraphy. PLOS ONE 17(6): e0269869. https://doi.org/10.1371/journal.pone.0269869`
+
+DOI: [https://doi.org/10.1371/journal.pone.0269869](https://doi.org/10.1371/journal.pone.0269869)
 
 Preprint: https://osf.io/preprints/socarxiv/47frj/
-
-Published article: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269869
 
 ---
 ## How to use this repository
